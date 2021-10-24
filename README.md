@@ -25,12 +25,12 @@ Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find art
 - Central Limit Theorem for Process Improvement with Python: ([Medium Article](https://towardsdatascience.com/central-limit-theorem-for-process-improvement-with-python-483126e33b07))
 
 
-#### Continuous Improvement and Lean Six Sigma for Supply Chain 🧑‍🏭
-- Statistical Sampling for Process Improvement using Python: ([Medium Article](https://towardsdatascience.com/statistical-sampling-for-process-improvement-using-python-9decc7b8288d)) 
-- Supply Chain Process Design using the Queueing Theory: ([Medium Article](https://towardsdatascience.com/supply-chain-process-design-using-the-queueing-theory-2ad75e58d1f3)) - ([Github Repository](https://github.com/samirsaci/queing-theory))
-- Lean Six Sigma with Python — Logistic Regression: ([Medium Article](https://towardsdatascience.com/lean-six-sigma-with-python-logistic-regression-36d160e84548)) - ([Github Repository](https://github.com/samirsaci/lss-logistic-regression))
-- Lean Six Sigma with Python — Kruskal Wallis Test: ([Medium Article](https://towardsdatascience.com/lean-six-sigma-data-analytics-with-python-kruskal-wallis-test-3afafa097ed)) - ([Github Repository](https://github.com/samirsaci/lss-kruskal-wallis))
-
+#### Transportation Management 🚚
+- Build a Real-Time Shipment Tracking Tool using a Telegram Bot: ([Medium Article](https://towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3)) - ([Github Repository](https://github.com/samirsaci/telegram_transport)) 
+- Build Your Free GPS Routing API with Python Flask: ([Medium Article](https://medium.com/nerd-for-tech/build-your-free-gps-routing-api-to-calculate-road-distances-143632cc4917)) - ([Github Repository](https://github.com/samirsaci/geocoding-api))
+- Containers Loading Optimization with Python: ([Medium Article](https://towardsdatascience.com/maximize-the-loading-capacity-of-a-sea-container-to-reduce-your-shipping-costs-with-python-8cc02c9725a7)) - ([Github Repository](https://github.com/samirsaci/container-optimization))
+- Optimize E-Commerce Last-Mile Delivery with Python: ([Medium Article](https://towardsdatascience.com/maximize-the-loading-capacity-of-a-sea-container-to-reduce-your-shipping-costs-with-python-8cc02c9725a7)) - ([Github Repository](https://github.com/samirsaci/last-mile))
+- Visualisation and Costing of Truck Transport Network with Python: ([Medium Article](https://towardsdatascience.com/road-transportation-optimization-with-python-part-1-visualisation-costing-698eadcdce0b))
 
 ### Machine Learning for Retail Sales Forecasting
 - Machine Learning for Retail Sales Forecasting — Features Engineering: ([Medium Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc))
