@@ -55,7 +55,7 @@ Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find art
 
 
 #### Interactive Visualization 📊
-- Vaccination Centers Availability in Paris: ([Demo using Google Maps](https://centre-vaccin.herokuapp.com/))
+- Vaccination Centers Availability in Paris using Google Maps Viz Tool: ([Demo](https://centre-vaccin.herokuapp.com/))
 - Build Interactive Charts using Flask and D3.js: ([Medium Article](https://towardsdatascience.com/build-interactive-charts-using-flask-and-d3-js-70f715a76f93)) - ([Github Repository](https://github.com/samirsaci/matrix-ecommerce))
 - Build Interactive Matrix Chart of Les Miserables Characters using Flask and D3.js: ([Github Repository](https://github.com/samirsaci/matrix-miserables))
 - Violin Plot using Flask + D3.js: ([Demo](https://samirsaci.com/violin-plot.html)) - ([Github Repository](https://github.com/samirsaci/violin-plot))
