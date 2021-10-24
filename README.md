@@ -45,7 +45,7 @@ Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find art
 - Improve Warehouse Productivity using Spatial Clustering with Python Scipy: ([Medium Article](https://towardsdatascience.com/optimizing-warehouse-operations-with-python-part-2-clustering-with-scipy-for-waves-creation-9b7c7dd49a84))
 - Improve Warehouse Productivity using Order Batching with Python: ([Medium Article](https://towardsdatascience.com/optimizing-warehouse-operations-with-python-part-1-83d02d001845))
 
-#### Supply Chain Transactional Processes Automation (RPA) 📦
+#### Supply Chain Transactional Processes Automation (RPA) 🤖
 - Orders Creation Automation with SAP for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-3-po-creation-36ae2d1baedb))
 - Product Listing Automation with SAP for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-2-listing-740c6cb690c1))
 - SAP Automation for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-1-intro-to-sap-gui-scripting-2b065e122c6f))
