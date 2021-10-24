@@ -1,12 +1,12 @@
-### Hi there 👋
+### 👋 Hi there
 
 I'm Samir, a Senior Supply Chain Engineer based in Paris. I have developped a passion for using Data Science and Python programming to optimize Supply Chain operations. 
 
 Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find articles regarding Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈.
 
-### I'm currently working on 🖥️
+### 🖥️ I'm currently working on 
 
-#### Machine Learning for Retail Sales Forecasting 🛒
+#### Machine Learning for Retail Sales Forecasting 📈
 - Machine Learning for Retail Sales Forecasting — Features Engineering: ([Medium Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc))
 - Machine Learning for Retail Demand Forecasting: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-1-xgboost-vs-9952d8303b48))
 - Machine Learning for Store Delivery Scheduling: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-2-replenishment-6ded544be81b))
@@ -56,7 +56,7 @@ Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find art
 
 #### Interactive Visualization 📊
 - Vaccination Centers Availability in Paris: ([Demo using Google Maps](https://centre-vaccin.herokuapp.com/))
-- Build Interactive Charts using Flask and D3.js: ([Medium Article](https://towardsdatascience.com/build-interactive-charts-using-flask-and-d3-js-70f715a76f93)) - ([Github Repository](https://github.com/samirsaci/last-mile)) - ([Github Repository](https://github.com/samirsaci/matrix-ecommerce))
+- Build Interactive Charts using Flask and D3.js: ([Medium Article](https://towardsdatascience.com/build-interactive-charts-using-flask-and-d3-js-70f715a76f93)) - ([Github Repository](https://github.com/samirsaci/matrix-ecommerce))
 - Build Interactive Matrix Chart of Les Miserables Characters using Flask and D3.js: ([Github Repository](https://github.com/samirsaci/matrix-miserables))
 - Violin Plot using Flask + D3.js: ([Demo](https://samirsaci.com/violin-plot.html)) - ([Github Repository](https://github.com/samirsaci/violin-plot))
 
