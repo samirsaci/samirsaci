@@ -24,13 +24,21 @@ Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find art
 - Lean Six Sigma with Python — Kruskal Wallis Test: ([Medium Article](https://towardsdatascience.com/lean-six-sigma-data-analytics-with-python-kruskal-wallis-test-3afafa097ed)) - ([Github Repository](https://github.com/samirsaci/lss-kruskal-wallis))
 - Central Limit Theorem for Process Improvement with Python: ([Medium Article](https://towardsdatascience.com/central-limit-theorem-for-process-improvement-with-python-483126e33b07))
 
-
-#### Transportation Management 🚚
+#### Transportation Operations Optimization using Python 🚚
 - Build a Real-Time Shipment Tracking Tool using a Telegram Bot: ([Medium Article](https://towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3)) - ([Github Repository](https://github.com/samirsaci/telegram_transport)) 
 - Build Your Free GPS Routing API with Python Flask: ([Medium Article](https://medium.com/nerd-for-tech/build-your-free-gps-routing-api-to-calculate-road-distances-143632cc4917)) - ([Github Repository](https://github.com/samirsaci/geocoding-api))
 - Containers Loading Optimization with Python: ([Medium Article](https://towardsdatascience.com/maximize-the-loading-capacity-of-a-sea-container-to-reduce-your-shipping-costs-with-python-8cc02c9725a7)) - ([Github Repository](https://github.com/samirsaci/container-optimization))
 - Optimize E-Commerce Last-Mile Delivery with Python: ([Medium Article](https://towardsdatascience.com/maximize-the-loading-capacity-of-a-sea-container-to-reduce-your-shipping-costs-with-python-8cc02c9725a7)) - ([Github Repository](https://github.com/samirsaci/last-mile))
 - Visualisation and Costing of Truck Transport Network with Python: ([Medium Article](https://towardsdatascience.com/road-transportation-optimization-with-python-part-1-visualisation-costing-698eadcdce0b))
+
+#### Warehousing Operations Optimization using Python 📦
+- Scheduling of Luxury Goods Final Assembly Lines with Python: ([Medium Article](https://towardsdatascience.com/scheduling-of-luxury-goods-final-assembly-lines-with-python-e5c4b0590bfc))
+- Deep Reinforcement Learning for AGV Routing: ([Medium Article](https://towardsdatascience.com/deep-reinforcement-learning-for-agv-routing-a9b9fe055304))
+- Reduce Warehouse Space with the Pareto Principle using Python: ([Medium Article](https://towardsdatascience.com/reduce-warehouse-space-with-the-pareto-principle-using-python-e722a6babe0e)) - ([Github Repository](https://github.com/samirsaci/pareto-warehouse-layout))
+- Optimize Workforce Planning using Linear Programming with Python: ([Medium Article](https://towardsdatascience.com/optimize-workforce-planning-using-linear-programming-with-python-47a0b5f89a6f)) - ([Github Repository](https://github.com/samirsaci/workforce-planning))
+- Design Pathfinding Algorithm using Google AI to Improve Warehouse Productivity: ([Medium Article](https://towardsdatascience.com/optimizing-warehouse-operations-with-python-part-3-google-ai-for-sprp-308c258cb66f))
+- Improve Warehouse Productivity using Spatial Clustering with Python Scipy: ([Medium Article](https://towardsdatascience.com/optimizing-warehouse-operations-with-python-part-2-clustering-with-scipy-for-waves-creation-9b7c7dd49a84))
+- Improve Warehouse Productivity using Order Batching with Python: ([Medium Article](https://towardsdatascience.com/optimizing-warehouse-operations-with-python-part-1-83d02d001845))
 
 ### Machine Learning for Retail Sales Forecasting
 - Machine Learning for Retail Sales Forecasting — Features Engineering: ([Medium Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc))
