@@ -55,16 +55,10 @@ Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find art
 
 
 #### Interactive Visualization 📊
-- Orders Creation Automation with SAP for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-3-po-creation-36ae2d1baedb))
-- Product Listing Automation with SAP for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-2-listing-740c6cb690c1))
-- SAP Automation for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-1-intro-to-sap-gui-scripting-2b065e122c6f))
-- Use Python to Design Automation Tools for Excel Users: ([Medium Article](https://towardsdatascience.com/use-python-to-design-automation-tools-for-excel-users-e824b37c646d))
-- Maximize your Business Profitability with Python: ([Medium Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802))
-- Automate Accounting Tasks using Python: ([Medium Article](https://towardsdatascience.com/help-your-finance-team-to-automate-accounting-tasks-using-python-68bcefe7524c))
-
-
-
-
+- Vaccination Centers Availability in Paris: ([Demo using Google Maps](https://centre-vaccin.herokuapp.com/))
+- Build Interactive Charts using Flask and D3.js: ([Medium Article](https://towardsdatascience.com/build-interactive-charts-using-flask-and-d3-js-70f715a76f93)) - ([Github Repository](https://github.com/samirsaci/last-mile)) - ([Github Repository](https://github.com/samirsaci/matrix-ecommerce))
+- Build Interactive Matrix Chart of Les Miserables Characters using Flask and D3.js: ([Github Repository](https://github.com/samirsaci/matrix-miserables))
+- Violin Plot using Flask + D3.js: ([Demo](https://samirsaci.com/violin-plot.html)) - ([Github Repository](https://github.com/samirsaci/violin-plot))
 
 <!--
 **samirsaci/samirsaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
