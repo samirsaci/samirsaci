@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm Samir, a Senior Supply Chain Engineer based in Paris. I have developped a passion for using Data Science and Python programming to optimize Supply Chain operations. 
+I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped a passion for using **Data Science and Python programming** to **optimize Supply Chain operations**. 
 
 Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find articles regarding Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈.
 
