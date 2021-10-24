@@ -6,6 +6,11 @@ Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find art
 
 ### I'm currently working on 🖥️
 
+### Machine Learning for Retail Sales Forecasting 🛒
+- Machine Learning for Retail Sales Forecasting — Features Engineering: ([Medium Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc))
+- Machine Learning for Retail Demand Forecasting: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-1-xgboost-vs-9952d8303b48))
+- Machine Learning for Store Delivery Scheduling: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-2-replenishment-6ded544be81b))
+
 #### Inventory Management for Retail 🛒
 - Inventory Management for Retail — Stochastic Demand: ([Medium Article](https://towardsdatascience.com/inventory-management-for-retail-stochastic-demand-3020a43d1c14)) - ([Github Repository](https://github.com/samirsaci/inventory-stochastic))
 - Inventory Management for Retail — Deterministic Demand: ([Medium Article](https://towardsdatascience.com/inventory-management-for-retail-deterministic-demand-311682c02518)) - ([Github Repository](https://github.com/samirsaci/inventory-deterministic))
@@ -40,10 +45,22 @@ Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find art
 - Improve Warehouse Productivity using Spatial Clustering with Python Scipy: ([Medium Article](https://towardsdatascience.com/optimizing-warehouse-operations-with-python-part-2-clustering-with-scipy-for-waves-creation-9b7c7dd49a84))
 - Improve Warehouse Productivity using Order Batching with Python: ([Medium Article](https://towardsdatascience.com/optimizing-warehouse-operations-with-python-part-1-83d02d001845))
 
-### Machine Learning for Retail Sales Forecasting
-- Machine Learning for Retail Sales Forecasting — Features Engineering: ([Medium Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc))
-- Machine Learning for Retail Demand Forecasting: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-1-xgboost-vs-9952d8303b48))
-- Machine Learning for Store Delivery Scheduling: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-2-replenishment-6ded544be81b))
+#### Supply Chain Transactional Processes Automation (RPA) 📦
+- Orders Creation Automation with SAP for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-3-po-creation-36ae2d1baedb))
+- Product Listing Automation with SAP for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-2-listing-740c6cb690c1))
+- SAP Automation for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-1-intro-to-sap-gui-scripting-2b065e122c6f))
+- Use Python to Design Automation Tools for Excel Users: ([Medium Article](https://towardsdatascience.com/use-python-to-design-automation-tools-for-excel-users-e824b37c646d))
+- Maximize your Business Profitability with Python: ([Medium Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802))
+- Automate Accounting Tasks using Python: ([Medium Article](https://towardsdatascience.com/help-your-finance-team-to-automate-accounting-tasks-using-python-68bcefe7524c))
+
+
+#### Interactive Visualization 📊
+- Orders Creation Automation with SAP for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-3-po-creation-36ae2d1baedb))
+- Product Listing Automation with SAP for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-2-listing-740c6cb690c1))
+- SAP Automation for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-1-intro-to-sap-gui-scripting-2b065e122c6f))
+- Use Python to Design Automation Tools for Excel Users: ([Medium Article](https://towardsdatascience.com/use-python-to-design-automation-tools-for-excel-users-e824b37c646d))
+- Maximize your Business Profitability with Python: ([Medium Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802))
+- Automate Accounting Tasks using Python: ([Medium Article](https://towardsdatascience.com/help-your-finance-team-to-automate-accounting-tasks-using-python-68bcefe7524c))
 
 
 
