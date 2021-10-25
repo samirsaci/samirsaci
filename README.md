@@ -7,7 +7,7 @@ Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find art
 ### 🖥️ I'm currently working on 
 
 #### Machine Learning for Retail Sales Forecasting 📈
-- Machine Learning for Retail Sales Forecasting — Features Engineering: ([Medium Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc))
+- Machine Learning for Retail Sales Forecasting — Features Engineering: ([Medium Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc))  - ([Github Repository](https://github.com/samirsaci/ml-forecast-features-eng))
 - Machine Learning for Retail Demand Forecasting: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-1-xgboost-vs-9952d8303b48))
 - Machine Learning for Store Delivery Scheduling: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-2-replenishment-6ded544be81b))
 
