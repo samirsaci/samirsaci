@@ -59,6 +59,9 @@ Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find art
 - Build Interactive Charts using Flask and D3.js: ([Medium Article](https://towardsdatascience.com/build-interactive-charts-using-flask-and-d3-js-70f715a76f93)) - ([Github Repository](https://github.com/samirsaci/matrix-ecommerce))
 - Build Interactive Matrix Chart of Les Miserables Characters using Flask and D3.js: ([Github Repository](https://github.com/samirsaci/matrix-miserables))
 - Violin Plot using Flask + D3.js: ([Demo](https://samirsaci.com/violin-plot.html)) - ([Github Repository](https://github.com/samirsaci/violin-plot))
+- Hexagons Map using D3.js: ([Demo](https://samirsaci.com/mapping.html))
+- Cosmetics Product Sales Sankey Chart using D3.js: ([Demo](https://samirsaci.com/market-sankey.html))
+
 
 <!--
 **samirsaci/samirsaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
