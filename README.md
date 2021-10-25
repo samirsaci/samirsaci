@@ -50,7 +50,7 @@ Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find art
 - Product Listing Automation with SAP for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-2-listing-740c6cb690c1)) - ([Github Repository](https://github.com/samirsaci/sap-automation)
 - SAP Automation for Retail Using VB: ([Medium Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-1-intro-to-sap-gui-scripting-2b065e122c6f))
 - Use Python to Design Automation Tools for Excel Users: ([Medium Article](https://towardsdatascience.com/use-python-to-design-automation-tools-for-excel-users-e824b37c646d))
-- Maximize your Business Profitability with Python: ([Medium Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802))
+- Maximize your Business Profitability with Python: ([Medium Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802)) - ([Github Repository](https://github.com/samirsaci/business-profitability))
 - Automate Accounting Tasks using Python: ([Medium Article](https://towardsdatascience.com/help-your-finance-team-to-automate-accounting-tasks-using-python-68bcefe7524c))
 
 
