@@ -4,7 +4,10 @@ I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped 
 
 Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find articles regarding Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈.
 
-### 🖥️ I'm currently working on 
+### 👷 I'm currently working on
+- Automate ABC Analysis & Product Segmentation with a Streamlit 📈: ([Try it!](https://share.streamlit.io/samirsaci/segmentation/segmentation.py))  - ([Github Repository](https://github.com/samirsaci/segmentation))
+
+### 🖥️ I've shared my insights about
 
 #### Machine Learning for Retail Sales Forecasting 📈
 - Machine Learning for Retail Sales Forecasting — Features Engineering: ([Medium Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc))  - ([Github Repository](https://github.com/samirsaci/ml-forecast-features-eng))
