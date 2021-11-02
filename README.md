@@ -4,6 +4,8 @@ I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped 
 
 Have a look at my blog [http://samirsaci.com](https://samirsaci.com) to find articles regarding Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈.
 
+If you are interested in contributing in any of these projects, drop me a message: [Linkedin](https://www.linkedin.com/in/samir-saci/)
+
 ### 👷 I'm currently working on
 - Automate ABC Analysis & Product Segmentation with a Streamlit 📈: ([Try it!](https://share.streamlit.io/samirsaci/segmentation/main/segmentation.py))  - ([Github Repository](https://github.com/samirsaci/segmentation))
 - Improve Warehouse Productivity using Order Batching 📦: ([Github Repository](https://github.com/samirsaci/picking-route))
