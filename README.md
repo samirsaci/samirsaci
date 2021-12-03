@@ -12,6 +12,9 @@ If you want to connect and exchange about any topic related to Data Science for 
 
 ### 🖥️ I've shared my insights about
 
+#### Supply Chain Sustainability 🌲
+- Supply Chain Sustainability Reporting with Python: ([Medium Article](https://towardsdatascience.com/supply-chain-sustainability-reporting-with-python-161c1f63f267))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability))
+
 #### Retail Sales Forecasting 📈
 - Machine Learning for Retail Sales Forecasting — Features Engineering: ([Medium Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc))  - ([Github Repository](https://github.com/samirsaci/ml-forecast-features-eng))
 - Machine Learning for Retail Demand Forecasting: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-1-xgboost-vs-9952d8303b48))
