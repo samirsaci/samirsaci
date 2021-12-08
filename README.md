@@ -73,7 +73,7 @@ If you want to connect and exchange about any topic related to Data Science for 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirsaci)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/samirsaci/supply-chain-optimization)
+[![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirsaci)](https://github.com/samirsaci/supply-chain-optimization)
 
 
 <!--
