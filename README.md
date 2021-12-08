@@ -71,9 +71,9 @@ If you want to connect and exchange about any topic related to Data Science for 
 - Hexagons Map using D3.js: ([Demo](https://samirsaci.com/mapping.html))
 - Cosmetics Product Sales Sankey Chart using D3.js: ([Demo](https://samirsaci.com/market-sankey.html))
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirsaci)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirsaci)](https://github.com/samirsaci)
 
-[![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirsaci)](https://github.com/samirsaci/supply-chain-optimization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirsaci&repo=supply-chain-optimization)](https://github.com/samirsaci/supply-chain-optimization)
 
 
 <!--
