@@ -73,6 +73,7 @@ If you want to connect and exchange about any topic related to Data Science for 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirsaci&repo=supply-chain-optimization)](https://github.com/samirsaci/supply-chain-optimization)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirsaci&repo=container-optimization)](https://github.com/samirsaci/container-optimization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirsaci&repo=last-mile)](https://github.com/samirsaci/last-mile)
 
 
 <!--
