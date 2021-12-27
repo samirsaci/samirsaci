@@ -10,11 +10,10 @@ My blog [http://samirsaci.com](https://samirsaci.com) to find articles regarding
   <img align="center" src="https://samirsaci.com/static/img/Image%20Presentation.gif">
 </p>
 
-
-([Youtube Channel](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g))
+[Youtube Channel](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g)
 Short animated videos to learn more about Warehousing, Transportation and Lean Six Sigma for Supply Chain Process Optimization.
 
-If you want to connect and exchange about any topic related to Data Science for Supply Chain, feel free to drop me a message: [Linkedin](https://www.linkedin.com/in/samir-saci/)
+Let's connect: [Linkedin](https://www.linkedin.com/in/samir-saci/)!
 
 ### 👷 I'm currently working on
 - Automate ABC Analysis & Product Segmentation with a Streamlit WebApp 📈: ([Try it!](https://share.streamlit.io/samirsaci/segmentation/main/segmentation.py))  - ([Github Repository](https://github.com/samirsaci/segmentation))
