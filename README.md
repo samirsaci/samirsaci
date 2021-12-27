@@ -9,6 +9,8 @@ My blog [http://samirsaci.com](https://samirsaci.com) to find articles regarding
 <p align="center">
   <img align="center" src="https://samirsaci.com/static/img/Image%20Presentation.gif">
 </p>
+
+
 ([Youtube Channel](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g))
 Short animated videos to learn more about Warehousing, Transportation and Lean Six Sigma for Supply Chain Process Optimization.
 
