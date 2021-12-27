@@ -34,6 +34,7 @@ If you want to connect and exchange about any topic related to Data Science for 
 #### Continuous Improvement and Lean Six Sigma for Supply Chain 🧑‍🏭
 - Statistical Sampling for Process Improvement using Python: ([Medium Article](https://towardsdatascience.com/statistical-sampling-for-process-improvement-using-python-9decc7b8288d)) 
 - Supply Chain Process Design using the Queueing Theory: ([Medium Article](https://towardsdatascience.com/supply-chain-process-design-using-the-queueing-theory-2ad75e58d1f3)) - ([Github Repository](https://github.com/samirsaci/queing-theory))
+- Lean Six Sigma with Python — Chi-Squared Test: ([Medium Article](https://s-saci95.medium.com/lean-six-sigma-with-python-chi-squared-test-bd61489cb0cb)) - ([Github Repository](https://github.com/samirsaci/lss-chi-squared))
 - Lean Six Sigma with Python — Logistic Regression: ([Medium Article](https://towardsdatascience.com/lean-six-sigma-with-python-logistic-regression-36d160e84548)) - ([Github Repository](https://github.com/samirsaci/lss-logistic-regression))
 - Lean Six Sigma with Python — Kruskal Wallis Test: ([Medium Article](https://towardsdatascience.com/lean-six-sigma-data-analytics-with-python-kruskal-wallis-test-3afafa097ed)) - ([Github Repository](https://github.com/samirsaci/lss-kruskal-wallis))
 - Central Limit Theorem for Process Improvement with Python: ([Medium Article](https://towardsdatascience.com/central-limit-theorem-for-process-improvement-with-python-483126e33b07))
