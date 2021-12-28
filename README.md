@@ -12,7 +12,7 @@ I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped 
 
 [Youtube Channel](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) to find **short animated videos** to learn more about Warehousing 📦, Transportation 🚚 and Lean Six Sigma for Supply Chain Process Optimization 📈.
 
-#### 👉 Let's be friend
+#### 👉 Let's connect!
 Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 
 ### 👷 I'm currently working on
