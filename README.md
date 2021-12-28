@@ -2,18 +2,18 @@
 
 I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped a passion for using **Data Science and Python programming** to **optimize Supply Chain operations**. 
 
-### 📜 Data Science for Supply Chain Blog
-[My Personal Blog](https://samirsaci.com) to find articles regarding Data Science for Warehousing📦, Transportation 🚚 and Demand Forecasting 📈.
+#### 📜 Data Science for Supply Chain Blog
+[My Personal Blog](https://samirsaci.com) to find articles regarding Data Science for Warehousing 📦, Transportation 🚚 and Demand Forecasting 📈.
 
 #### 🎥 Supply Science Youtube Channel
 <p align="center">
   <img align="center" src="https://samirsaci.com/static/img/Image%20Presentation.gif">
 </p>
 
-[Youtube Channel](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g)
-to find short animated videos to learn more about Warehousing, Transportation and Lean Six Sigma for Supply Chain Process Optimization.
+[Youtube Channel](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) to find **short animated videos** to learn more about Warehousing 📦, Transportation 🚚 and Lean Six Sigma for Supply Chain Process Optimization 📈.
 
-Let's connect: [Linkedin](https://www.linkedin.com/in/samir-saci/)!
+#### 🎥 Supply Science Youtube Channel
+Let's connect in [Linkedin](https://www.linkedin.com/in/samir-saci/)!
 
 ### 👷 I'm currently working on
 - Automate ABC Analysis & Product Segmentation with a Streamlit WebApp 📈: ([Try it!](https://share.streamlit.io/samirsaci/segmentation/main/segmentation.py))  - ([Github Repository](https://github.com/samirsaci/segmentation))
