@@ -10,7 +10,7 @@ I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped 
   <img align="center" src="https://samirsaci.com/static/img/Image%20Presentation.gif">
 </p>
 
-[Youtube Channel](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) to find **short animated videos** to learn more about Logistics Operations and Supply Chain Process Optimization 📈.
+[Youtube Channel](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) to find **short animated videos** to learn more about **Logistics Operations** and **Supply Chain Process Optimization**.
 
 #### 👉 Let's connect!
 Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
