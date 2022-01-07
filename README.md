@@ -41,6 +41,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Raw Materials Optimization for Food Manufacturing with Python: ([Medium Article](https://towardsdatascience.com/raw-materials-optimization-for-food-manufacturing-with-python-fbf2be4a74)) - ([Github Repository](https://github.com/samirsaci/raw-materials))
 
 #### Continuous Improvement and Lean Six Sigma for Supply Chain 🧑‍🏭
+- Automate Budget Planning using Linear Programming: ([Medium Article](https://towardsdatascience.com/automate-budget-planning-using-linear-programming-5254aace697c)) - ([Github Repository](https://github.com/samirsaci/budget-planning))
 - Statistical Sampling for Process Improvement using Python: ([Medium Article](https://towardsdatascience.com/statistical-sampling-for-process-improvement-using-python-9decc7b8288d)) 
 - Supply Chain Process Design using the Queueing Theory: ([Medium Article](https://towardsdatascience.com/supply-chain-process-design-using-the-queueing-theory-2ad75e58d1f3)) - ([Github Repository](https://github.com/samirsaci/queing-theory))
 - Lean Six Sigma with Python — Chi-Squared Test: ([Medium Article](https://s-saci95.medium.com/lean-six-sigma-with-python-chi-squared-test-bd61489cb0cb)) - ([Github Repository](https://github.com/samirsaci/lss-chi-squared))
