@@ -53,7 +53,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Central Limit Theorem for Process Improvement with Python: ([Medium Article](https://towardsdatascience.com/central-limit-theorem-for-process-improvement-with-python-483126e33b07))
 
 #### Transportation Operations Optimization using Python 🚚
-- Transportation Network Analysis with Graph Theory: ([Medium Article](--)) - ([Github Repository](https://github.com/samirsaci/graph-theory)) 
+- Transportation Network Analysis with Graph Theory: ([Medium Article](https://towardsdatascience.com/transportation-network-analysis-with-graph-theory-55eceb7e4de4)) - ([Github Repository](https://github.com/samirsaci/graph-theory)) 
 - Build a Real-Time Shipment Tracking Tool using a Telegram Bot: ([Medium Article](https://towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3)) - ([Github Repository](https://github.com/samirsaci/telegram_transport)) 
 - Build Your Free GPS Routing API with Python Flask: ([Medium Article](https://medium.com/nerd-for-tech/build-your-free-gps-routing-api-to-calculate-road-distances-143632cc4917)) - ([Github Repository](https://github.com/samirsaci/geocoding-api))
 - Containers Loading Optimization with Python: ([Medium Article](https://towardsdatascience.com/maximize-the-loading-capacity-of-a-sea-container-to-reduce-your-shipping-costs-with-python-8cc02c9725a7)) - ([Github Repository](https://github.com/samirsaci/container-optimization))
