@@ -89,6 +89,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirsaci&repo=supply-chain-optimization)](https://github.com/samirsaci/supply-chain-optimization)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirsaci&repo=container-optimization)](https://github.com/samirsaci/container-optimization)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirsaci&repo=last-mile)](https://github.com/samirsaci/last-mile)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirsaci&repo=graph-theory)](https://github.com/samirsaci/graph-theory)
 
 
 <!--
