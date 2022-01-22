@@ -80,6 +80,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 
 
 #### Interactive Visualization 📊
+- Deploy Logistics Operational Dashboards using DataPane: ([Medium Article](https://towardsdatascience.com/deploy-logistics-operational-dashboards-using-datapane-585cf19532f1)) - ([Github Repository](https://github.com/samirsaci/ops-dashboard))
 - Vaccination Centers Availability in Paris using Google Maps Viz Tool: ([Demo](https://centre-vaccin.herokuapp.com/))
 - Build Interactive Charts using Flask and D3.js: ([Medium Article](https://towardsdatascience.com/build-interactive-charts-using-flask-and-d3-js-70f715a76f93)) - ([Github Repository](https://github.com/samirsaci/matrix-ecommerce))
 - Build Interactive Matrix Chart of Les Miserables Characters using Flask and D3.js: ([Github Repository](https://github.com/samirsaci/matrix-miserables))
