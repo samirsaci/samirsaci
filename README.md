@@ -34,6 +34,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Machine Learning for Store Delivery Scheduling: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-2-replenishment-6ded544be81b))
 
 #### Inventory Management for Retail 🛒
+- Inventory Management for Retail — Periodic Review Policy: ([Medium Article](https://towardsdatascience.com/inventory-management-for-retail-periodic-review-policy-4399330ce8b0)) - ([Github Repository](https://github.com/samirsaci/inventory-periodic))
 - Inventory Management for Retail — Stochastic Demand: ([Medium Article](https://towardsdatascience.com/inventory-management-for-retail-stochastic-demand-3020a43d1c14)) - ([Github Repository](https://github.com/samirsaci/inventory-stochastic))
 - Inventory Management for Retail — Deterministic Demand: ([Medium Article](https://towardsdatascience.com/inventory-management-for-retail-deterministic-demand-311682c02518)) - ([Github Repository](https://github.com/samirsaci/inventory-deterministic))
 - Product Segmentation for Retail with Python: ([Medium Article](https://towardsdatascience.com/product-segmentation-for-retail-with-python-c85cc0930f9a)) - ([Github Repository](https://github.com/samirsaci/product-segmentation))
