@@ -89,7 +89,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Hexagons Map using D3.js: ([Demo](https://samirsaci.com/mapping.html))
 - Cosmetics Product Sales Sankey Chart using D3.js: ([Demo](https://samirsaci.com/market-sankey.html))
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=samirsaci&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Samir's github stats](https://github-readme-stats.vercel.app/api?username=samirsaci&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirsaci&repo=supply-chain-optimization)](https://github.com/samirsaci/supply-chain-optimization)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=samirsaci&repo=container-optimization)](https://github.com/samirsaci/container-optimization)
