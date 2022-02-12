@@ -40,6 +40,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Product Segmentation for Retail with Python: ([Medium Article](https://towardsdatascience.com/product-segmentation-for-retail-with-python-c85cc0930f9a)) - ([Github Repository](https://github.com/samirsaci/product-segmentation))
 
 #### Supply Chain Management 🏭
+- Robust Supply Chain Networks with Monte Carlo Simulation: ([Medium Article](https://towardsdatascience.com/robust-supply-chain-network-with-monte-carlo-simulation-21ef5adb1722)) - ([Github Repository](https://github.com/samirsaci/monte-carlo))
 - Procurement Process Optimization with Python: ([Medium Article](https://towardsdatascience.com/procurement-process-optimization-with-python-a4c7a2e3ba76)) - ([Github Repository](https://github.com/samirsaci/procurement-management))
 - Supply Planning using Linear Programming with Python: ([Medium Article](https://towardsdatascience.com/supply-planning-using-linear-programming-with-python-bff2401bf270)) - ([Github Repository](https://github.com/samirsaci/supply-planning))
 - Supply Chain Optimization with Python: ([Medium Article](https://towardsdatascience.com/supply-chain-optimization-with-python-23ae9b28fd0b)) - ([Github Repository](https://github.com/samirsaci/supply-chain-optimization))
