@@ -3,15 +3,18 @@
 I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped a passion for using **Data Science** and **Python programming** to optimize **Supply Chain Operations**. 
 
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/1400/0*6OqZIq5P3raibIQN.png" link>
   <a href="https://samirsaci.com">
+  <img align="center" src="https://miro.medium.com/max/1400/0*6OqZIq5P3raibIQN.png" link>
+  </a>
 </p>
 
 [Personal Blog](https://samirsaci.com) to find articles regarding Data Science for Warehousing 📦, Transportation 🚚 and Demand Forecasting 📈.
 
 #### 🎥 Supply Science Youtube Channel
 <p align="center">
+  <a href="https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g">
   <img align="center" src="https://samirsaci.com/static/img/Image%20Presentation.gif">
+  </a>
 </p>
 
 [Youtube Channel](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) to find **short animated videos** to learn more about **Logistics Operations** and **Supply Chain Process Optimization**.
