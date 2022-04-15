@@ -29,25 +29,25 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 ### 🖥️ I've shared my insights about
 
 #### Supply Chain Sustainability 🌲
-- Supply Chain Sustainability Reporting with Python: ([Medium Article](https://towardsdatascience.com/supply-chain-sustainability-reporting-with-python-161c1f63f267))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability))
+- Supply Chain Sustainability Reporting with Python: ([Article](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability))
 
 #### Retail Sales Forecasting 📈
-- Machine Learning for Retail Sales Forecasting — Features Engineering: ([Medium Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc))  - ([Github Repository](https://github.com/samirsaci/ml-forecast-features-eng))
-- Machine Learning for Retail Demand Forecasting: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-1-xgboost-vs-9952d8303b48))
-- Machine Learning for Store Delivery Scheduling: ([Medium Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-2-replenishment-6ded544be81b))
+- Machine Learning for Retail Sales Forecasting — Features Engineering: ([Article](https://www.samirsaci.com/machine-learning-for-retail-sales-forecasting-features-engineering/))  - ([Github Repository](https://github.com/samirsaci/ml-forecast-features-eng))
+- Machine Learning for Retail Demand Forecasting: ([Article](https://www.samirsaci.com/machine-learning-for-retail-demand-forecasting/))
+- Machine Learning for Store Delivery Scheduling: ([Article](https://www.samirsaci.com/machine-learning-for-store-delivery-scheduling/))
 
 #### Inventory Management for Retail 🛒
-- Inventory Management for Retail — Periodic Review Policy: ([Medium Article](https://towardsdatascience.com/inventory-management-for-retail-periodic-review-policy-4399330ce8b0)) - ([Github Repository](https://github.com/samirsaci/inventory-periodic))
-- Inventory Management for Retail — Stochastic Demand: ([Medium Article](https://towardsdatascience.com/inventory-management-for-retail-stochastic-demand-3020a43d1c14)) - ([Github Repository](https://github.com/samirsaci/inventory-stochastic))
-- Inventory Management for Retail — Deterministic Demand: ([Medium Article](https://towardsdatascience.com/inventory-management-for-retail-deterministic-demand-311682c02518)) - ([Github Repository](https://github.com/samirsaci/inventory-deterministic))
-- Product Segmentation for Retail with Python: ([Medium Article](https://towardsdatascience.com/product-segmentation-for-retail-with-python-c85cc0930f9a)) - ([Github Repository](https://github.com/samirsaci/product-segmentation))
+- Inventory Management for Retail — Periodic Review Policy: ([Article](https://www.samirsaci.com/inventory-management-for-retail-periodic-review-policy/)) - ([Github Repository](https://github.com/samirsaci/inventory-periodic))
+- Inventory Management for Retail — Stochastic Demand: ([Article](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/)) - ([Github Repository](https://github.com/samirsaci/inventory-stochastic))
+- Inventory Management for Retail — Deterministic Demand: ([Article](https://www.samirsaci.com/inventory-management-for-retail-deterministic-demand/)) - ([Github Repository](https://github.com/samirsaci/inventory-deterministic))
+- Product Segmentation for Retail with Python: ([Article](https://www.samirsaci.com/product-segmentation-for-retail-with-python/)) - ([Github Repository](https://github.com/samirsaci/product-segmentation))
 
 #### Supply Chain Management 🏭
-- Robust Supply Chain Networks with Monte Carlo Simulation: ([Medium Article](https://towardsdatascience.com/robust-supply-chain-network-with-monte-carlo-simulation-21ef5adb1722)) - ([Github Repository](https://github.com/samirsaci/monte-carlo))
-- Procurement Process Optimization with Python: ([Medium Article](https://towardsdatascience.com/procurement-process-optimization-with-python-a4c7a2e3ba76)) - ([Github Repository](https://github.com/samirsaci/procurement-management))
-- Supply Planning using Linear Programming with Python: ([Medium Article](https://towardsdatascience.com/supply-planning-using-linear-programming-with-python-bff2401bf270)) - ([Github Repository](https://github.com/samirsaci/supply-planning))
-- Supply Chain Optimization with Python: ([Medium Article](https://towardsdatascience.com/supply-chain-optimization-with-python-23ae9b28fd0b)) - ([Github Repository](https://github.com/samirsaci/supply-chain-optimization))
-- Raw Materials Optimization for Food Manufacturing with Python: ([Medium Article](https://towardsdatascience.com/raw-materials-optimization-for-food-manufacturing-with-python-fbf2be4a74)) - ([Github Repository](https://github.com/samirsaci/raw-materials))
+- Robust Supply Chain Networks with Monte Carlo Simulation: ([Article](https://www.samirsaci.com/robust-supply-chain-networks-with-monte-carlo-simulation/)) - ([Github Repository](https://github.com/samirsaci/monte-carlo))
+- Procurement Process Optimization with Python: ([Article](https://www.samirsaci.com/procurement-process-optimization-with-python/)) - ([Github Repository](https://github.com/samirsaci/procurement-management))
+- Supply Planning using Linear Programming with Python: ([Article](https://www.samirsaci.com/supply-planning-using-linear-programming-with-python/)) - ([Github Repository](https://github.com/samirsaci/supply-planning))
+- Supply Chain Optimization with Python: ([Article](https://www.samirsaci.com/supply-chain-optimization-with-python/)) - ([Github Repository](https://github.com/samirsaci/supply-chain-optimization))
+- Raw Materials Optimization for Food Manufacturing with Python: ([Article](https://www.samirsaci.com/raw-materials-optimization-for-food-manufacturing-with-python/)) - ([Github Repository](https://github.com/samirsaci/raw-materials))
 
 #### Continuous Improvement and Lean Six Sigma for Supply Chain 🧑‍🏭
 - Automate Budget Planning using Linear Programming: ([Article](https://www.samirsaci.com/automate-budget-planning-using-linear-programming/)) - ([Github Repository](https://github.com/samirsaci/budget-planning))
