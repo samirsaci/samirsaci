@@ -48,6 +48,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Product Segmentation for Retail with Python: ([Article](https://www.samirsaci.com/product-segmentation-for-retail-with-python/)) - ([Github Repository](https://github.com/samirsaci/product-segmentation))
 
 #### Supply Chain Network 🏭
+- Production Fixed Horizon Planning with Python: ([Article](https://www.samirsaci.com/production-fixed-horizon-planning-with-python/)) - ([Github Repository](https://github.com/samirsaci/production-planning))
 - Supply Chain Process Optimization Using Linear Programming: ([Article](https://www.samirsaci.com/supply-chain-process-optimization-using-linear-programming/))
 - Robust Supply Chain Networks with Monte Carlo Simulation: ([Article](https://www.samirsaci.com/robust-supply-chain-networks-with-monte-carlo-simulation/)) - ([Github Repository](https://github.com/samirsaci/monte-carlo))
 - Procurement Process Optimization with Python: ([Article](https://www.samirsaci.com/procurement-process-optimization-with-python/)) - ([Github Repository](https://github.com/samirsaci/procurement-management))
