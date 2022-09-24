@@ -5,9 +5,10 @@ I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped 
 #### 📰 Personal Blog
 <p align="center">
   <a href="https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g">
-  <img height=100px align="center" src="https://www.samirsaci.com/content/images/2022/07/Logo-4.png">
+  <img height=50px align="center" src="https://www.samirsaci.com/content/images/2022/07/Logo-4.png">
   </a>
 </p>
+
 [Personal Blog](https://samirsaci.com) to find articles regarding Data Science for Warehousing 📦, Transportation 🚚 and Demand Forecasting 📈.
 
 #### 🎥 Supply Science Youtube Channel
