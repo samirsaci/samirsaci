@@ -7,7 +7,7 @@ I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped 
 #### 🎥 Supply Science Youtube Channel
 <p align="center">
   <a href="https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g">
-  <img height=75px align="center" src="https://samirsaci.github.io/static/img/Image%20Presentation.gif">
+  <img height=200px align="center" src="https://samirsaci.github.io/static/img/Image%20Presentation.gif">
   </a>
 </p>
 
