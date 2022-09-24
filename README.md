@@ -2,12 +2,6 @@
 
 I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped a passion for using **Data Science** and **Python programming** to optimize **Supply Chain Operations**. 
 
-<p align="center">
-  <a href="https://samirsaci.com">
-  <img align="center" src="https://miro.medium.com/max/1400/0*6OqZIq5P3raibIQN.png" link>
-  </a>
-</p>
-
 [Personal Blog](https://samirsaci.com) to find articles regarding Data Science for Warehousing 📦, Transportation 🚚 and Demand Forecasting 📈.
 
 #### 🎥 Supply Science Youtube Channel
@@ -27,6 +21,10 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Improve Warehouse Productivity using Order Batching 📦: ([Github Repository](https://github.com/samirsaci/picking-route))
 
 ### 🖥️ I've shared my insights about
+
+#### Productivity ⌛
+- Automate Operational Reports Distribution in HTML Emails using Python: ([Article](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/))  - ([Github Repository](https://github.com/samirsaci/automated_report))
+- Automate Flash Cards Creation for Language Learning with Python: ([Article](https://www.samirsaci.com/automate-flash-cards-creation-for-language-learning-with-python/))
 
 #### Supply Chain Sustainability 🌲
 - Supply Chain Sustainability Reporting with Python: ([Article](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability))
