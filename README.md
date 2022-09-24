@@ -16,10 +16,6 @@ I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped 
 #### 👉 Let's connect!
 Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 
-### 👷 I'm currently working on
-- Automate ABC Analysis & Product Segmentation with a Streamlit WebApp 📈: ([Try it!](https://share.streamlit.io/samirsaci/segmentation/main/segmentation.py))  - ([Github Repository](https://github.com/samirsaci/segmentation))
-- Improve Warehouse Productivity using Order Batching 📦: ([Github Repository](https://github.com/samirsaci/picking-route))
-
 ### 🖥️ I've shared my insights about
 
 #### Productivity ⌛
@@ -90,6 +86,10 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Violin Plot using Flask + D3.js: ([Demo](https://samirsaci.com/violin-plot.html)) - ([Github Repository](https://github.com/samirsaci/violin-plot))
 - Hexagons Map using D3.js: ([Demo](https://samirsaci.com/mapping.html))
 - Cosmetics Product Sales Sankey Chart using D3.js: ([Demo](https://samirsaci.com/market-sankey.html))
+
+### 👷 I'm currently working on
+- Automate ABC Analysis & Product Segmentation with a Streamlit WebApp 📈: ([Try it!](https://share.streamlit.io/samirsaci/segmentation/main/segmentation.py))  - ([Github Repository](https://github.com/samirsaci/segmentation))
+- Improve Warehouse Productivity using Order Batching 📦: ([Github Repository](https://github.com/samirsaci/picking-route))
 
 [![Samir's github stats](https://github-readme-stats.vercel.app/api?username=samirsaci&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
