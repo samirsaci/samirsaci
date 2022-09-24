@@ -2,6 +2,12 @@
 
 I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped a passion for using **Data Science** and **Python programming** to optimize **Supply Chain Operations**. 
 
+#### 📰 Personal Blog
+<p align="center">
+  <a href="https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g">
+  <img height=100px align="center" src="https://www.samirsaci.com/content/images/2022/07/Logo-4.png">
+  </a>
+</p>
 [Personal Blog](https://samirsaci.com) to find articles regarding Data Science for Warehousing 📦, Transportation 🚚 and Demand Forecasting 📈.
 
 #### 🎥 Supply Science Youtube Channel
@@ -22,6 +28,10 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Automate Operational Reports Distribution in HTML Emails using Python: ([Article](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/))  - ([Github Repository](https://github.com/samirsaci/automated_report))
 - Automate Flash Cards Creation for Language Learning with Python: ([Article](https://www.samirsaci.com/automate-flash-cards-creation-for-language-learning-with-python/))
 
+#### Logistics Network Performance Management ⏱️
+- Lead Times Variability and Supply Chain Resilience: ([Article](https://www.samirsaci.com/lead-times-variability-and-supply-chain-resilience/))
+- Logistic Performance Management Using Data Analytics: ([Article](https://www.samirsaci.com/logistic-performance-management-using-data-analytics/))
+
 #### Supply Chain Sustainability 🌲
 - Supply Chain Sustainability Reporting with Python: ([Article](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability))
 
@@ -36,7 +46,8 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Inventory Management for Retail — Deterministic Demand: ([Article](https://www.samirsaci.com/inventory-management-for-retail-deterministic-demand/)) - ([Github Repository](https://github.com/samirsaci/inventory-deterministic))
 - Product Segmentation for Retail with Python: ([Article](https://www.samirsaci.com/product-segmentation-for-retail-with-python/)) - ([Github Repository](https://github.com/samirsaci/product-segmentation))
 
-#### Supply Chain Management 🏭
+#### Supply Chain Network 🏭
+- Supply Chain Process Optimization Using Linear Programming: ([Article](https://www.samirsaci.com/supply-chain-process-optimization-using-linear-programming/))
 - Robust Supply Chain Networks with Monte Carlo Simulation: ([Article](https://www.samirsaci.com/robust-supply-chain-networks-with-monte-carlo-simulation/)) - ([Github Repository](https://github.com/samirsaci/monte-carlo))
 - Procurement Process Optimization with Python: ([Article](https://www.samirsaci.com/procurement-process-optimization-with-python/)) - ([Github Repository](https://github.com/samirsaci/procurement-management))
 - Supply Planning using Linear Programming with Python: ([Article](https://www.samirsaci.com/supply-planning-using-linear-programming-with-python/)) - ([Github Repository](https://github.com/samirsaci/supply-planning))
@@ -76,7 +87,6 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Use Python to Design Automation Tools for Excel Users: ([Article](https://www.samirsaci.com/build-excel-automation-tools-with-python/))
 - Maximize your Business Profitability with Python: ([Article](https://www.samirsaci.com/maximize-your-business-profitability-with-python/)) - ([Github Repository](https://github.com/samirsaci/business-profitability))
 - Automate Accounting Tasks using Python: ([Article](https://www.samirsaci.com/automate-accounting-tasks-using-python/))
-
 
 #### Interactive Visualization 📊
 - Deploy Logistics Operational Dashboards using DataPane: ([Article](https://www.samirsaci.com/deploy-logistics-operational-dashboards-using-datapane/)) - ([Github Repository](https://github.com/samirsaci/ops-dashboard))
