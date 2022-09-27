@@ -26,6 +26,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 ### 🖥️ I've shared my insights about
 
 #### Productivity ⌛
+- Automate PowerPoint Slides Creation with Python: ([Article](https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/))  - ([Github Repository](https://github.com/samirsaci/automate-powerpoint))
 - Automate Operational Reports Distribution in HTML Emails using Python: ([Article](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/))  - ([Github Repository](https://github.com/samirsaci/automated_report))
 - Automate Flash Cards Creation for Language Learning with Python: ([Article](https://www.samirsaci.com/automate-flash-cards-creation-for-language-learning-with-python/))
 
