@@ -25,7 +25,15 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 
 ### 🖥️ I've shared my insights about
 
+#### Supply Chain Sustainability 🌲
+- What is a Life Cycle Assessment? LCA: ([Article](https://www.samirsaci.com/what-is-a-life-cycle-assessment-lca-2/))
+- What is a Circular Economy?: ([Article](www.samirsaci.com/what-is-a-circular-economy/))
+- Data Analytics for Supply Chain Sustainability: ([Article](https://www.samirsaci.com/data-analytics-for-supply-chain-sustainability/))
+- Sustainable Logistics - Reduce Warehouse Consumables: ([Article](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/))
+- Supply Chain Sustainability Reporting with Python: ([Article](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability))
+
 #### Productivity ⌛
+- Automate Video Editing with Python: ([Article](https://www.samirsaci.com/automate-video-editing-with-python/))
 - Automate Graphic Design using Python: ([Article](https://www.samirsaci.com/automate-graphic-design-using-python/))
 - Automate PowerPoint Slides Creation with Python: ([Article](https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/))  - ([Github Repository](https://github.com/samirsaci/automate-powerpoint))
 - Automate Operational Reports Distribution in HTML Emails using Python: ([Article](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/))  - ([Github Repository](https://github.com/samirsaci/automated_report))
@@ -34,9 +42,6 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 #### Logistics Network Performance Management ⏱️
 - Lead Times Variability and Supply Chain Resilience: ([Article](https://www.samirsaci.com/lead-times-variability-and-supply-chain-resilience/))
 - Logistic Performance Management Using Data Analytics: ([Article](https://www.samirsaci.com/logistic-performance-management-using-data-analytics/))
-
-#### Supply Chain Sustainability 🌲
-- Supply Chain Sustainability Reporting with Python: ([Article](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability))
 
 #### Retail Sales Forecasting 📈
 - Machine Learning for Retail Sales Forecasting — Features Engineering: ([Article](https://www.samirsaci.com/machine-learning-for-retail-sales-forecasting-features-engineering/))  - ([Github Repository](https://github.com/samirsaci/ml-forecast-features-eng))
@@ -49,7 +54,10 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Inventory Management for Retail — Deterministic Demand: ([Article](https://www.samirsaci.com/inventory-management-for-retail-deterministic-demand/)) - ([Github Repository](https://github.com/samirsaci/inventory-deterministic))
 - Product Segmentation for Retail with Python: ([Article](https://www.samirsaci.com/product-segmentation-for-retail-with-python/)) - ([Github Repository](https://github.com/samirsaci/product-segmentation))
 
-#### Supply Chain Network 🏭
+#### Supply Chain Optimization 🏭
+- What is Process Mining?: ([Article](https://www.samirsaci.com/what-is-process-mining/)) 
+- What Is a Supply Chain Digital Twin?: ([Article](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/)) 
+- What is Supply Chain Analytics?: ([Article](https://www.samirsaci.com/what-is-supply-chain-analytics/)) 
 - Production Fixed Horizon Planning with Python: ([Article](https://www.samirsaci.com/production-fixed-horizon-planning-with-python/)) - ([Github Repository](https://github.com/samirsaci/production-planning))
 - Supply Chain Process Optimization Using Linear Programming: ([Article](https://www.samirsaci.com/supply-chain-process-optimization-using-linear-programming/))
 - Robust Supply Chain Networks with Monte Carlo Simulation: ([Article](https://www.samirsaci.com/robust-supply-chain-networks-with-monte-carlo-simulation/)) - ([Github Repository](https://github.com/samirsaci/monte-carlo))
