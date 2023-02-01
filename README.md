@@ -25,36 +25,36 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 
 ### 🖥️ I've shared my insights about
 
-#### Supply Chain Sustainability 🌲
+#### Supply Chain Sustainability [🌲](https://www.samirsaci.com/tag/sustainability/)
 - What is a Life Cycle Assessment? LCA: ([Article](https://www.samirsaci.com/what-is-a-life-cycle-assessment-lca-2/))
 - What is a Circular Economy?: ([Article](www.samirsaci.com/what-is-a-circular-economy/))
 - Data Analytics for Supply Chain Sustainability: ([Article](https://www.samirsaci.com/data-analytics-for-supply-chain-sustainability/))
 - Sustainable Logistics - Reduce Warehouse Consumables: ([Article](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/))
 - Supply Chain Sustainability Reporting with Python: ([Article](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability))
 
-#### Productivity ⌛
+#### Productivity [⌛](https://www.samirsaci.com/tag/productivity/)
 - Automate Video Editing with Python: ([Article](https://www.samirsaci.com/automate-video-editing-with-python/))
 - Automate Graphic Design using Python: ([Article](https://www.samirsaci.com/automate-graphic-design-using-python/))
 - Automate PowerPoint Slides Creation with Python: ([Article](https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/))  - ([Github Repository](https://github.com/samirsaci/automate-powerpoint))
 - Automate Operational Reports Distribution in HTML Emails using Python: ([Article](https://www.samirsaci.com/automate-operational-reports-distribution-in-html-emails-using-python/))  - ([Github Repository](https://github.com/samirsaci/automated_report))
 - Automate Flash Cards Creation for Language Learning with Python: ([Article](https://www.samirsaci.com/automate-flash-cards-creation-for-language-learning-with-python/))
 
-#### Logistics Network Performance Management ⏱️
+#### Logistics Network Performance Management [⏱️](https://www.samirsaci.com/tag/performance/)
 - Lead Times Variability and Supply Chain Resilience: ([Article](https://www.samirsaci.com/lead-times-variability-and-supply-chain-resilience/))
 - Logistic Performance Management Using Data Analytics: ([Article](https://www.samirsaci.com/logistic-performance-management-using-data-analytics/))
 
-#### Retail Sales Forecasting 📈
+#### Retail Sales Forecasting [📈](https://www.samirsaci.com/tag/inventory-management/)
 - Machine Learning for Retail Sales Forecasting — Features Engineering: ([Article](https://www.samirsaci.com/machine-learning-for-retail-sales-forecasting-features-engineering/))  - ([Github Repository](https://github.com/samirsaci/ml-forecast-features-eng))
 - Machine Learning for Retail Demand Forecasting: ([Article](https://www.samirsaci.com/machine-learning-for-retail-demand-forecasting/))
 - Machine Learning for Store Delivery Scheduling: ([Article](https://www.samirsaci.com/machine-learning-for-store-delivery-scheduling/))
 
-#### Inventory Management for Retail 🛒
+#### Inventory Management for Retail [🛒](https://www.samirsaci.com/tag/inventory-management/)
 - Inventory Management for Retail — Periodic Review Policy: ([Article](https://www.samirsaci.com/inventory-management-for-retail-periodic-review-policy/)) - ([Github Repository](https://github.com/samirsaci/inventory-periodic))
 - Inventory Management for Retail — Stochastic Demand: ([Article](https://www.samirsaci.com/inventory-management-for-retail-stochastic-demand-2/)) - ([Github Repository](https://github.com/samirsaci/inventory-stochastic))
 - Inventory Management for Retail — Deterministic Demand: ([Article](https://www.samirsaci.com/inventory-management-for-retail-deterministic-demand/)) - ([Github Repository](https://github.com/samirsaci/inventory-deterministic))
 - Product Segmentation for Retail with Python: ([Article](https://www.samirsaci.com/product-segmentation-for-retail-with-python/)) - ([Github Repository](https://github.com/samirsaci/product-segmentation))
 
-#### Supply Chain Optimization 🏭
+#### Supply Chain Optimization [🏭](https://www.samirsaci.com/tag/supply-chain-optimization/)
 - What is Process Mining?: ([Article](https://www.samirsaci.com/what-is-process-mining/)) 
 - What Is a Supply Chain Digital Twin?: ([Article](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/)) 
 - What is Supply Chain Analytics?: ([Article](https://www.samirsaci.com/what-is-supply-chain-analytics/)) 
@@ -66,7 +66,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Supply Chain Optimization with Python: ([Article](https://www.samirsaci.com/supply-chain-optimization-with-python/)) - ([Github Repository](https://github.com/samirsaci/supply-chain-optimization))
 - Raw Materials Optimization for Food Manufacturing with Python: ([Article](https://www.samirsaci.com/raw-materials-optimization-for-food-manufacturing-with-python/)) - ([Github Repository](https://github.com/samirsaci/raw-materials))
 
-#### Continuous Improvement and Lean Six Sigma for Supply Chain 🧑‍🏭
+#### Continuous Improvement and Lean Six Sigma for Supply Chain [🧑‍🏭](https://www.samirsaci.com/tag/lean-six-sigma/)
 - Automate Budget Planning using Linear Programming: ([Article](https://www.samirsaci.com/automate-budget-planning-using-linear-programming/)) - ([Github Repository](https://github.com/samirsaci/budget-planning))
 - Statistical Sampling for Process Improvement using Python: ([Article](https://www.samirsaci.com/statistical-sampling-for-process-improvement-using-python/)) 
 - Supply Chain Process Design using the Queueing Theory: ([Article](https://www.samirsaci.com/supply-chain-process-design-using-the-queueing-theory/)) - ([Github Repository](https://github.com/samirsaci/queing-theory))
@@ -75,7 +75,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Lean Six Sigma with Python — Kruskal Wallis Test: ([Article](https://www.samirsaci.com/lean-six-sigma-with-python-kruskal-wallis-test/)) - ([Github Repository](https://github.com/samirsaci/lss-kruskal-wallis))
 - Central Limit Theorem for Process Improvement with Python: ([Article](https://www.samirsaci.com/central-limit-theorem-for-process-improvement-with-python/))
 
-#### Transportation Operations Optimization using Python 🚚
+#### Transportation Operations Optimization using Python [🚚](https://www.samirsaci.com/tag/transportation/)
 - Transportation Network Analysis with Graph Theory: ([Article](https://www.samirsaci.com/transportation-network-analysis-with-graph-theory/)) - ([Github Repository](https://github.com/samirsaci/graph-theory)) 
 - Build a Real-Time Shipment Tracking Tool using a Telegram Bot: ([Article](https://www.samirsaci.com/build-a-shipment-tracking-tool-using-a-telegram-bot/)) - ([Github Repository](https://github.com/samirsaci/telegram_transport)) 
 - Build Your Free GPS Routing API with Python Flask: ([Article](https://www.samirsaci.com/build-a-gps-routing-api-with-python-flask/)) - ([Github Repository](https://github.com/samirsaci/geocoding-api))
@@ -83,7 +83,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Optimize E-Commerce Last-Mile Delivery with Python: ([Article](https://www.samirsaci.com/optimize-e-commerce-last-mile-delivery-with-python/)) - ([Github Repository](https://github.com/samirsaci/last-mile))
 - Visualisation and Costing of Truck Transport Network with Python: ([Article](https://www.samirsaci.com/road-transportation-network-visualization/))
 
-#### Warehousing Operations Optimization using Python 📦
+#### Warehousing Operations Optimization using Python [📦](https://www.samirsaci.com/tag/warehousing/)
 - Scheduling of Luxury Goods Final Assembly Lines with Python: ([Article](https://www.samirsaci.com/optimize-warehouse-value-added-services-with-python/))
 - Deep Reinforcement Learning for AGV Routing: ([Article](https://www.samirsaci.com/deep-reinforcement-learning-for-agv-routing/))
 - Reduce Warehouse Space with the Pareto Principle using Python: ([Article](https://www.samirsaci.com/reduce-warehouse-space-with-the-pareto-principle-using-python/)) - ([Github Repository](https://github.com/samirsaci/pareto-warehouse-layout))
@@ -92,7 +92,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Improve Warehouse Productivity using Spatial Clustering with Python Scipy: ([Article](https://www.samirsaci.com/improve-warehouse-productivity-using-spatial-clustering-with-python/))
 - Improve Warehouse Productivity using Order Batching with Python: ([Article](https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/))
 
-#### Supply Chain Transactional Processes Automation (RPA) 🤖
+#### Supply Chain Transactional Processes Automation (RPA) [🤖](https://www.samirsaci.com/tag/visualization/)
 - Orders Creation Automation with SAP for Retail Using VB: ([Article](https://www.samirsaci.com/sap-automation-of-orders-creation-for-retail/)) - ([Github Repository](https://github.com/samirsaci/sap-automation-po))
 - Product Listing Automation with SAP for Retail Using VB: ([Article](https://www.samirsaci.com/sap-automation-of-product-listing-for-retail/)) - ([Github Repository](https://github.com/samirsaci/sap-automation))
 - SAP Automation for Retail Using VB: ([Article](https://www.samirsaci.com/sap-automation-for-retail/))
@@ -100,7 +100,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Maximize your Business Profitability with Python: ([Article](https://www.samirsaci.com/maximize-your-business-profitability-with-python/)) - ([Github Repository](https://github.com/samirsaci/business-profitability))
 - Automate Accounting Tasks using Python: ([Article](https://www.samirsaci.com/automate-accounting-tasks-using-python/))
 
-#### Interactive Visualization 📊
+#### Interactive Visualization [📊](https://www.samirsaci.com/tag/visualization/)
 - Deploy Logistics Operational Dashboards using DataPane: ([Article](https://www.samirsaci.com/deploy-logistics-operational-dashboards-using-datapane/)) - ([Github Repository](https://github.com/samirsaci/ops-dashboard))
 - Vaccination Centers Availability in Paris using Google Maps Viz Tool: ([Demo](https://centre-vaccin.herokuapp.com/))
 - Build Interactive Charts using Flask and D3.js: ([Article](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/)) - ([Github Repository](https://github.com/samirsaci/matrix-ecommerce))
