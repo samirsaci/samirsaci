@@ -32,7 +32,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - What is a Life Cycle Assessment? LCA: ([Article](https://www.samirsaci.com/what-is-a-life-cycle-assessment-lca-2/))
 - What is a Circular Economy?: ([Article](www.samirsaci.com/what-is-a-circular-economy/))
 - Data Analytics for Supply Chain Sustainability: ([Article](https://www.samirsaci.com/data-analytics-for-supply-chain-sustainability/))
-- Sustainable Logistics - Reduce Warehouse Consumables: ([Article](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/))
+- Sustainable Logistics - Reduce Warehouse Consumables: ([Article](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/)) - ([Video Tutorial](https://youtu.be/0bOAhEPXJ1M))
 - Supply Chain Sustainability Reporting with Python: ([Article](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability)) - ([Video Tutorial](https://youtu.be/ddthuvFQdGY))
 
 #### Productivity [⌛](https://www.samirsaci.com/tag/productivity/)
