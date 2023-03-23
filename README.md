@@ -26,6 +26,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 ### 🖥️ I've shared my insights about
 
 #### Supply Chain Sustainability [🌲](https://www.samirsaci.com/tag/sustainability/)
+- Leveraging Data Analytics for Sustainable Business Transformation: ([Article](https://towardsdatascience.com/leveraging-data-analytics-for-sustainable-business-transformation-cfd8d71f97f5))
 - How Sustainable is Your Circular Economy?: ([Article](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/))
 - Green Inventory Management - Case Study: ([Article](https://www.samirsaci.com/green-inventory-management-case-study/))
 - What is Sustainable Sourcing?: ([Article](https://www.samirsaci.com/what-is-sustainable-sourcing/))
