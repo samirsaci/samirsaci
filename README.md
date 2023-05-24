@@ -23,7 +23,8 @@ I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped 
 #### 👉 Let's connect!
 Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 
-### 👷 My Projects of Web Application
+### 👷 My Web Applications
+- Sustainable Supply Chain Network Optimization 🌲: ([Try it!](https://cloud.viktor.ai/public/sustainable-supply-chain-network-optimization))
 - Automate ABC Analysis & Product Segmentation  📈: ([Try it!](https://cloud.viktor.ai/public/product-segmentation-abc-analysis))
 - Production Planning Optimizaton 🏭: ([Try it!](https://cloud.viktor.ai/public/production-planning))
 - Improve Warehouse Productivity using Order Batching 📦: ([Github Repository](https://github.com/samirsaci/picking-route))
