@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developped a passion for using **Data Science** and **Python programming** to optimize **Supply Chain Operations**. 
+I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developed a passion for using **Data Science** and **Python programming** to optimize **Supply Chain Operations**. 
 
 #### 📰 Personal Blog
 <p align="center">
@@ -26,12 +26,13 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 ### 👷 My Web Applications
 - Sustainable Supply Chain Network Optimization 🌲: ([Try it!](https://cloud.viktor.ai/public/sustainable-supply-chain-network-optimization))
 - Automate ABC Analysis & Product Segmentation  📈: ([Try it!](https://cloud.viktor.ai/public/product-segmentation-abc-analysis))
-- Production Planning Optimizaton 🏭: ([Try it!](https://cloud.viktor.ai/public/production-planning))
+- Production Planning Optimization 🏭: ([Try it!](https://cloud.viktor.ai/public/production-planning))
 - Improve Warehouse Productivity using Order Batching 📦: ([Github Repository](https://github.com/samirsaci/picking-route))
 
 ### 🖥️ I've shared my insights about
 
 #### Supply Chain Sustainability [🌲](https://www.samirsaci.com/tag/sustainability/)
+- Create a Sustainable Supply Chain Optimization Web App: ([Article](https://medium.com/p/20599b98cab6))
 - Leveraging Data Analytics for Sustainable Business Transformation: ([Article](https://towardsdatascience.com/leveraging-data-analytics-for-sustainable-business-transformation-cfd8d71f97f5))
 - How Sustainable is Your Circular Economy?: ([Article](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/))
 - Green Inventory Management - Case Study: ([Article](https://www.samirsaci.com/green-inventory-management-case-study/))
@@ -114,7 +115,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Deploy Logistics Operational Dashboards using DataPane: ([Article](https://www.samirsaci.com/deploy-logistics-operational-dashboards-using-datapane/)) - ([Github Repository](https://github.com/samirsaci/ops-dashboard))
 - Vaccination Centers Availability in Paris using Google Maps Viz Tool: ([Demo](https://centre-vaccin.herokuapp.com/))
 - Build Interactive Charts using Flask and D3.js: ([Article](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/)) - ([Github Repository](https://github.com/samirsaci/matrix-ecommerce))
-- Build Interactive Matrix Chart of Les Miserables Characters using Flask and D3.js: ([Github Repository](https://github.com/samirsaci/matrix-miserables))
+- Build an Interactive Matrix Chart of Les Miserables Characters using Flask and D3.js: ([Github Repository](https://github.com/samirsaci/matrix-miserables))
 - Violin Plot using Flask + D3.js: ([Demo](https://samirsaci.com/violin-plot.html)) - ([Github Repository](https://github.com/samirsaci/violin-plot))
 - Hexagons Map using D3.js: ([Demo](https://samirsaci.com/mapping.html))
 - Cosmetics Product Sales Sankey Chart using D3.js: ([Demo](https://samirsaci.com/market-sankey.html))
