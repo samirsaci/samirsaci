@@ -52,6 +52,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Automate Budget Planning using Linear Programming: ([Article](https://www.samirsaci.com/automate-budget-planning-using-linear-programming/)) - ([Github Repository](https://github.com/samirsaci/budget-planning)) - ([Video Tutorial](https://youtu.be/U_9KGjzGlkA))
 
 #### Logistics Network Performance Management [⏱️](https://www.samirsaci.com/tag/performance/)
+- What is Business Intelligence?:  ([Article](https://towardsdatascience.com/what-is-business-intelligence-bf1de730319c))
 - Lead Times Variability and Supply Chain Resilience: ([Article](https://www.samirsaci.com/lead-times-variability-and-supply-chain-resilience/)) - ([Video Tutorial](https://youtu.be/YNvOX3CT3hQ))
 - Logistic Performance Management Using Data Analytics: ([Article](https://www.samirsaci.com/logistic-performance-management-using-data-analytics/)) - ([Video Tutorial](https://youtu.be/ssdni_n6HDc))
 
