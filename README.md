@@ -32,6 +32,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 ### 🖥️ I've shared my insights about
 
 #### Supply Chain Sustainability [🌲](https://www.samirsaci.com/tag/sustainability/)
+- What Greenwashing Is, and How We Can Use Analytics to Detect It: ([Article](https://medium.com/towards-data-science/what-is-greenwashing-and-how-to-use-analytics-to-detect-it-15b8118031)) 
 - Create a Sustainable Supply Chain Optimization Web App: ([Article](https://medium.com/p/20599b98cab6))
 - Leveraging Data Analytics for Sustainable Business Transformation: ([Article](https://towardsdatascience.com/leveraging-data-analytics-for-sustainable-business-transformation-cfd8d71f97f5))
 - How Sustainable is Your Circular Economy?: ([Article](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/))
@@ -68,6 +69,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Product Segmentation for Retail with Python: ([Article](https://www.samirsaci.com/product-segmentation-for-retail-with-python/)) - ([Github Repository](https://github.com/samirsaci/product-segmentation))
 
 #### Supply Chain Optimization [🏭](https://www.samirsaci.com/tag/supply-chain-optimization/)
+- What is Business Intelligence?: ([Article](https://towardsdatascience.com/what-is-business-intelligence-bf1de730319c)) 
 - What is Process Mining?: ([Article](https://www.samirsaci.com/what-is-process-mining/)) 
 - What Is a Supply Chain Digital Twin?: ([Article](https://www.samirsaci.com/what-is-a-supply-chain-digital-twin/)) 
 - What is Supply Chain Analytics?: ([Article](https://www.samirsaci.com/what-is-supply-chain-analytics/)) - ([Video Tutorial](https://youtu.be/3d7C4pShykI))
@@ -105,6 +107,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Improve Warehouse Productivity using Order Batching with Python: ([Article](https://www.samirsaci.com/improve-warehouse-productivity-using-order-batching-with-python/))
 
 #### Supply Chain Transactional Processes Automation (RPA) [🤖](https://www.samirsaci.com/tag/visualization/)
+- What Is RPA? Robotic Process Automation: ([Article](https://medium.com/@s-saci95/what-is-rpa-robotic-process-automation-ae7dc62fe9cd))
 - Orders Creation Automation with SAP for Retail Using VB: ([Article](https://www.samirsaci.com/sap-automation-of-orders-creation-for-retail/)) - ([Github Repository](https://github.com/samirsaci/sap-automation-po)) - ([Video Tutorial](https://youtu.be/EY9yt0BTr2M))
 - Product Listing Automation with SAP for Retail Using VB: ([Article](https://www.samirsaci.com/sap-automation-of-product-listing-for-retail/)) - ([Github Repository](https://github.com/samirsaci/sap-automation)) - ([Video Tutorial](https://youtu.be/yodNWnf7PQ0))
 - SAP Automation for Retail Using VB: ([Article](https://www.samirsaci.com/sap-automation-for-retail/))
