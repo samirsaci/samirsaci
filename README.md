@@ -124,6 +124,8 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Hexagons Map using D3.js: ([Demo](https://samirsaci.com/mapping.html))
 - Cosmetics Product Sales Sankey Chart using D3.js: ([Demo](https://samirsaci.com/market-sankey.html))
 
+#### Data & Business
+- What Is Data Quality?: ([Article](https://medium.com/towards-data-science/what-is-data-quality-f2c0274a6404))
 
 <!--
 [![Samir's github stats](https://github-readme-stats.vercel.app/api?username=samirsaci&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
