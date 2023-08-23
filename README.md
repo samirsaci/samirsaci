@@ -32,7 +32,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 ### 🖥️ I've shared my insights about
 
 #### Supply Chain Sustainability [🌲](https://www.samirsaci.com/tag/sustainability/)
-- What is ESG Reporting?: ([Article](https://towardsdatascience.com/what-is-esg-reporting-d610535eed9c) 
+- What is ESG Reporting?: ([Article](https://towardsdatascience.com/what-is-esg-reporting-d610535eed9c))
 - What Greenwashing Is, and How We Can Use Analytics to Detect It: ([Article](https://medium.com/towards-data-science/what-is-greenwashing-and-how-to-use-analytics-to-detect-it-15b8118031)) 
 - Create a Sustainable Supply Chain Optimization Web App: ([Article](https://medium.com/p/20599b98cab6))
 - Leveraging Data Analytics for Sustainable Business Transformation: ([Article](https://towardsdatascience.com/leveraging-data-analytics-for-sustainable-business-transformation-cfd8d71f97f5))
