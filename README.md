@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I have developed a passion for using **Data Science** and **Python programming** to optimize **Supply Chain Operations**. 
+I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I am passionate about using **Data Science** and **Python programming** to optimize **Supply Chain Operations**. 
 
 #### 📰 Personal Blog
 <p align="center">
@@ -32,6 +32,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 ### 🖥️ I've shared my insights about
 
 #### Supply Chain Sustainability [🌲](https://www.samirsaci.com/tag/sustainability/)
+- What are the Sustainable Development Goals? (SDGs): ([Article](https://s-saci95.medium.com/what-are-the-sustainable-development-goals-sdgs-988a1eb2b62b))
 - What is ESG Reporting?: ([Article](https://towardsdatascience.com/what-is-esg-reporting-d610535eed9c))
 - What Greenwashing Is, and How We Can Use Analytics to Detect It: ([Article](https://medium.com/towards-data-science/what-is-greenwashing-and-how-to-use-analytics-to-detect-it-15b8118031)) 
 - Create a Sustainable Supply Chain Optimization Web App: ([Article](https://medium.com/p/20599b98cab6))
