@@ -25,7 +25,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 
 ### 📘 Your complete guide for Supply Chain Analytics
 
-60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://abstracted-hydrant-a3d.notion.site/Supply-Chain-Analytics-Cheat-Sheet-d449e3d53cfc45978aa889d3ef40f559?pvs=4)
+60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
 
 ### 👷 My Web Applications
 - Sustainable Supply Chain Network Optimization 🌲: ([Try it!](https://cloud.viktor.ai/public/sustainable-supply-chain-network-optimization))
