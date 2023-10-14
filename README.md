@@ -23,9 +23,11 @@ I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I am passionate ab
 ### 👉 Let's connect!
 Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 
-### 📘 Your complete guide for Supply Chain Analytics
+### 📘 Your complete guides for Supply Chain Analytics and Productivity
 
-60+ case studies with source code, dummy data and mathematical concepts here 👉 [Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
+60+ case studies with source code, dummy data and mathematical concepts here 👉 [Supply Chain Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
+
+15+ tools and examples of analytics tools to boost your productivity 👉 [Productivity Cheat Sheet](https://bit.ly/data-for-productivity)
 
 ### 👷 My Web Applications
 - Sustainable Supply Chain Network Optimization 🌲: ([Try it!](https://cloud.viktor.ai/public/sustainable-supply-chain-network-optimization))
