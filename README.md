@@ -38,6 +38,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 ### 🖥️ I've shared my insights about
 
 #### Supply Chain Sustainability [🌲](https://www.samirsaci.com/tag/sustainability/)
+- How Will Data Science Accelerate the Circular Economy?: ([Article](https://towardsdatascience.com/how-will-data-science-accelerate-the-circular-economy-61a1a22287e5))
 - What are the Sustainable Development Goals? (SDGs): ([Article](https://s-saci95.medium.com/what-are-the-sustainable-development-goals-sdgs-988a1eb2b62b))
 - What is ESG Reporting?: ([Article](https://towardsdatascience.com/what-is-esg-reporting-d610535eed9c))
 - What Greenwashing Is, and How We Can Use Analytics to Detect It: ([Article](https://medium.com/towards-data-science/what-is-greenwashing-and-how-to-use-analytics-to-detect-it-15b8118031)) 
