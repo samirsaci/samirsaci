@@ -53,6 +53,9 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Sustainable Logistics - Reduce Warehouse Consumables: ([Article](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/)) - ([Video Tutorial](https://youtu.be/0bOAhEPXJ1M))
 - Supply Chain Sustainability Reporting with Python: ([Article](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability)) - ([Video Tutorial](https://youtu.be/ddthuvFQdGY))
 
+### Generative AI: LLMs with LangChain for Supply Chain Analytics
+- Leveraging LLMs with LangChain for Supply Chain Analytics — A Control Tower Powered by GPT: ([Article](https://towardsdatascience.com/leveraging-llms-with-langchain-for-supply-chain-analytics-a-control-tower-powered-by-gpt-21e19b33b5f0))
+
 #### Productivity [⌛](https://www.samirsaci.com/tag/productivity/)
 - Automate Video Editing with Python: ([Article](https://www.samirsaci.com/automate-video-editing-with-python/))
 - Automate Graphic Design using Python: ([Article](https://www.samirsaci.com/automate-graphic-design-using-python/)) - ([Video Tutorial](https://youtu.be/9IYZD-1l-eY))
