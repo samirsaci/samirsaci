@@ -55,7 +55,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 
 ### Generative AI: LLMs with LangChain for Supply Chain Analytics
 - Leveraging LLMs with LangChain for Supply Chain Analytics — A Control Tower Powered by GPT: ([Article](https://towardsdatascience.com/leveraging-llms-with-langchain-for-supply-chain-analytics-a-control-tower-powered-by-gpt-21e19b33b5f0))
-- Create GPTs to Automate Supply Chain Analytics: ([Article](https://medium.com/@s-saci95/create-gpts-to-automate-supply-chain-analytics-5b44dec8e0f8))
+- Create GPTs to Automate Supply Chain Analytics: ([Article](https://medium.com/@s-saci95/create-gpts-to-automate-supply-chain-analytics-5b44dec8e0f8)) - ([Video Tutorial](https://youtu.be/UdJSdRECgkI?si=NRK_Y6IvvSa7wDA6))
 
 #### Productivity [⌛](https://www.samirsaci.com/tag/productivity/)
 - Automate Video Editing with Python: ([Article](https://www.samirsaci.com/automate-video-editing-with-python/))
