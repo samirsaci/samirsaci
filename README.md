@@ -82,7 +82,6 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Product Segmentation for Retail with Python: ([Article](https://towardsdatascience.com/product-segmentation-for-retail-with-python-c85cc0930f9a)) - ([Github Repository](https://github.com/samirsaci/product-segmentation))
 
 #### Supply Chain Optimization [🏭](https://www.samirsaci.com/tag/supply-chain-optimization/)
-- What is Business Intelligence?: ([Article](https://towardsdatascience.com/what-is-business-intelligence-bf1de730319c)) 
 - What is Process Mining?: ([Article](https://towardsdatascience.com/what-is-process-mining-683b5eb6547c)) 
 - What Is a Supply Chain Digital Twin?: ([Article](https://towardsdatascience.com/what-is-a-supply-chain-digital-twin-e7a8cd9aeb75)) 
 - What is Supply Chain Analytics?: ([Article](https://towardsdatascience.com/what-is-supply-chain-analytics-42f1b2df4a2)) - ([Video Tutorial](https://youtu.be/3d7C4pShykI))
@@ -139,6 +138,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 
 #### Data & Business
 - What Is Data Quality?: ([Article](https://medium.com/towards-data-science/what-is-data-quality-f2c0274a6404))
+- What is Business Intelligence?: ([Article](https://towardsdatascience.com/what-is-business-intelligence-bf1de730319c)) 
 
 <!--
 [![Samir's github stats](https://github-readme-stats.vercel.app/api?username=samirsaci&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
