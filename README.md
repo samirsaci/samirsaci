@@ -29,11 +29,13 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 
 15+ tools and examples of analytics tools to boost your productivity 👉 [Productivity Cheat Sheet](https://bit.ly/data-for-productivity)
 
-### 👷 My Web Applications
+### 👷 My Web Applications & GPTs
 - Sustainable Supply Chain Network Optimization 🌲: ([Try it!](https://cloud.viktor.ai/public/sustainable-supply-chain-network-optimization)) ([Video Tutorial](https://youtu.be/WG3JnZBQ2Qc))
 - Automate ABC Analysis & Product Segmentation  📈: ([Try it!](https://cloud.viktor.ai/public/product-segmentation-abc-analysis))
 - Production Planning Optimization 🏭: ([Try it!](https://cloud.viktor.ai/public/production-planning))
 - Improve Warehouse Productivity using Order Batching 📦: ([Github Repository](https://github.com/samirsaci/picking-route))
+- The Supply Chain Analyst GPT to Automate ABC Analysis & Pareto Chart: ([Custom GPT](https://bit.ly/the-supply-chain-analyst)))
+- The Supply Chain Analytics Scholar GPT - a smart agent connected to a knowledge database of 60+ articles:  ([Custom GPT](https://bit.ly/supply-chain-scholar))
 
 ### 🖥️ I've shared my insights about
 
