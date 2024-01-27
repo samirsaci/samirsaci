@@ -36,6 +36,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Improve Warehouse Productivity using Order Batching 📦: ([Github Repository](https://github.com/samirsaci/picking-route))
 - The Supply Chain Analyst GPT to Automate ABC Analysis & Pareto Chart: ([Custom GPT](https://bit.ly/the-supply-chain-analyst))
 - The Supply Chain Analytics Scholar GPT - a smart agent connected to a knowledge database of 60+ articles:  ([Custom GPT](https://bit.ly/supply-chain-scholar))
+- The Data Productivity Guru: ([Custom GPT](https://bit.ly/data-produtivity-guru))
 
 ### 🖥️ I've shared my insights about
 
