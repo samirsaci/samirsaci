@@ -56,7 +56,11 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Sustainable Logistics - Reduce Warehouse Consumables: ([Article](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/)) - ([Video Tutorial](https://youtu.be/0bOAhEPXJ1M))
 - Supply Chain Sustainability Reporting with Python: ([Article](https://towardsdatascience.com/supply-chain-sustainability-reporting-with-python-161c1f63f267))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability)) - ([Video Tutorial](https://youtu.be/ddthuvFQdGY))
 
-### Generative AI: LLMs with LangChain for Supply Chain Analytics
+#### Business Analytics
+- Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://medium.com/towards-data-science/business-planning-with-python-inventory-and-cash-flow-management-4f9beb7ecbec))
+- Maximize your Business Profitability with Python: ([Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802)) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
+
+#### Generative AI: LLMs with LangChain for Supply Chain Analytics
 - Leveraging LLMs with LangChain for Supply Chain Analytics — A Control Tower Powered by GPT: ([Article](https://towardsdatascience.com/leveraging-llms-with-langchain-for-supply-chain-analytics-a-control-tower-powered-by-gpt-21e19b33b5f0))
 - Create GPTs to Automate Supply Chain Analytics: ([Article](https://medium.com/@s-saci95/create-gpts-to-automate-supply-chain-analytics-5b44dec8e0f8)) - ([Video Tutorial](https://youtu.be/UdJSdRECgkI?si=NRK_Y6IvvSa7wDA6))
 
@@ -127,7 +131,6 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Product Listing Automation with SAP for Retail Using VB: ([Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-2-listing-740c6cb690c1)) - ([Github Repository](https://github.com/samirsaci/sap-automation)) - ([Video Tutorial](https://youtu.be/yodNWnf7PQ0))
 - SAP Automation for Retail Using VB: ([Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-1-intro-to-sap-gui-scripting-2b065e122c6f))
 - Use Python to Design Automation Tools for Excel Users: ([Article](https://towardsdatascience.com/use-python-to-design-automation-tools-for-excel-users-e824b37c646d))
-- Maximize your Business Profitability with Python: ([Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802)) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
 - Automate Accounting Tasks using Python: ([Article](https://towardsdatascience.com/help-your-finance-team-to-automate-accounting-tasks-using-python-68bcefe7524c))
 
 #### Interactive Visualization 📊
