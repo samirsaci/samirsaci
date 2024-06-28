@@ -57,6 +57,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/)
 - Supply Chain Sustainability Reporting with Python: ([Article](https://towardsdatascience.com/supply-chain-sustainability-reporting-with-python-161c1f63f267))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability)) - ([Video Tutorial](https://youtu.be/ddthuvFQdGY))
 
 #### Business Analytics
+- Business Planning with Python — Revenue Optimization: ([Article](https://medium.com/towards-data-science/business-planning-with-python-revenue-optimization-83387074826d))
 - Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://medium.com/towards-data-science/business-planning-with-python-inventory-and-cash-flow-management-4f9beb7ecbec))
 - Maximize your Business Profitability with Python: ([Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802)) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
 
