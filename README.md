@@ -42,25 +42,26 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) to connect or disc
 
 ### 🖥️ I've shared my insights about
 
-#### Supply Chain Sustainability [🌲](https://www.samirsaci.com/tag/sustainability/)
+#### Supply Chain Sustainability 🌲
+- Simulate the Challenges of a Circular Economy for Fashion Retail: ([Article](https://towardsdatascience.com/simulate-the-challenges-of-a-circular-economy-for-fashion-retail-5c7e269f0706))
 - How Will Data Science Accelerate the Circular Economy?: ([Article](https://towardsdatascience.com/how-will-data-science-accelerate-the-circular-economy-61a1a22287e5))
 - What are the Sustainable Development Goals? (SDGs): ([Article](https://s-saci95.medium.com/what-are-the-sustainable-development-goals-sdgs-988a1eb2b62b))
 - What is ESG Reporting?: ([Article](https://towardsdatascience.com/what-is-esg-reporting-d610535eed9c))
-- What Greenwashing Is, and How We Can Use Analytics to Detect It: ([Article](https://medium.com/towards-data-science/what-is-greenwashing-and-how-to-use-analytics-to-detect-it-15b8118031)) 
+- What Greenwashing Is, and How We Can Use Analytics to Detect It: ([Article](https://towardsdatascience.com/what-is-greenwashing-and-how-to-use-analytics-to-detect-it-15b8118031)) 
 - Create a Sustainable Supply Chain Optimization Web App: ([Article](https://medium.com/p/20599b98cab6)) ([Video Tutorial](https://youtu.be/WG3JnZBQ2Qc))
 - Leveraging Data Analytics for Sustainable Business Transformation: ([Article](https://towardsdatascience.com/leveraging-data-analytics-for-sustainable-business-transformation-cfd8d71f97f5))
-- How Sustainable is Your Circular Economy?: ([Article](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/))
-- Green Inventory Management - Case Study: ([Article](https://www.samirsaci.com/green-inventory-management-case-study/))
-- What is Sustainable Sourcing?: ([Article](https://www.samirsaci.com/what-is-sustainable-sourcing/))
+- How Sustainable is Your Circular Economy?: ([Article](https://towardsdatascience.com/data-science-for-sustainability-simulate-a-circular-economy-b6a13d4b0451))
+- Green Inventory Management - Case Study: ([Article](https://towardsdatascience.com/data-science-for-sustainability-green-inventory-management-e7ddfd97696f))
+- What is Sustainable Sourcing?: ([Article](https://towardsdatascience.com/data-science-for-sustainable-sourcing-a72f2c4db424))
 - What is a Life Cycle Assessment? LCA: ([Article](https://towardsdatascience.com/what-is-a-life-cycle-assessment-lca-e32a5078483a))
-- What is a Circular Economy?: ([Article](https://www.samirsaci.com/what-is-a-circular-economy/))
+- What is a Circular Economy?: ([Article](https://towardsdatascience.com/data-science-for-sustainability-simulate-a-circular-economy-b6a13d4b0451))
 - Data Analytics for Supply Chain Sustainability: ([Article](https://towardsdatascience.com/data-analytics-for-supply-chain-sustainability-c6066de41609))
 - Sustainable Logistics - Reduce Warehouse Consumables: ([Article](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/)) - ([Video Tutorial](https://youtu.be/0bOAhEPXJ1M))
 - Supply Chain Sustainability Reporting with Python: ([Article](https://towardsdatascience.com/supply-chain-sustainability-reporting-with-python-161c1f63f267))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability)) - ([Video Tutorial](https://youtu.be/ddthuvFQdGY))
 
 #### Business Analytics
-- Business Planning with Python — Revenue Optimization: ([Article](https://medium.com/towards-data-science/business-planning-with-python-revenue-optimization-83387074826d))
-- Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://medium.com/towards-data-science/business-planning-with-python-inventory-and-cash-flow-management-4f9beb7ecbec))
+- Business Planning with Python — Revenue Optimization: ([Article](https://towardsdatascience.com/business-planning-with-python-revenue-optimization-83387074826d))
+- Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://towardsdatascience.com/business-planning-with-python-inventory-and-cash-flow-management-4f9beb7ecbec))
 - Maximize your Business Profitability with Python: ([Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802)) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
 
 #### Generative AI: LLMs with LangChain for Supply Chain Analytics
@@ -69,7 +70,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) to connect or disc
 
 #### Productivity ⌛
 - Automate Video Editing with Python: ([Article](https://towardsdatascience.com/automate-video-editing-with-python-4e0c43edef36))
-- Automate Graphic Design using Python: ([Article](https://www.samirsaci.com/automate-graphic-design-using-python/)) - ([Video Tutorial](https://youtu.be/9IYZD-1l-eY))
+- Automate Graphic Design using Python: ([Article](https://towardsdatascience.com/automate-graphic-design-using-python-e161bce62cfe)) - ([Video Tutorial](https://youtu.be/9IYZD-1l-eY))
 - Automate PowerPoint Slides Creation with Python: ([Article](https://towardsdatascience.com/automate-powerpoint-slides-creation-with-python-a639c7d429a6))  - ([Github Repository](https://github.com/samirsaci/automate-powerpoint)) - ([Video Tutorial](https://youtu.be/7CsAJeQeWTc))
 - Automate Operational Reports Distribution in HTML Emails using Python: ([Article](https://towardsdatascience.com/automate-operational-reports-distribution-in-html-emails-using-python-c65c66fc99a6))  - ([Github Repository](https://github.com/samirsaci/automated_report)) - ([Video Tutorial](https://youtu.be/mo3IjpSQBdc))
 - Automate Flash Cards Creation for Language Learning with Python: ([Article](https://towardsdatascience.com/automate-flash-cards-creation-for-language-learning-with-python-67871f4d23b3)) - ([Video Tutorial](https://youtu.be/n5sB-4F-zng))
@@ -83,7 +84,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) to connect or disc
 #### Retail Sales Forecasting [📈](https://www.samirsaci.com/tag/inventory-management/)
 - Machine Learning for Retail Sales Forecasting — Features Engineering: ([Article](https://s-saci95.medium.com/machine-learning-for-retail-sales-forecasting-features-engineering-4edfee7c9cbc))  - ([Github Repository](https://github.com/samirsaci/ml-forecast-features-eng))
 - Machine Learning for Retail Demand Forecasting: ([Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-1-xgboost-vs-9952d8303b48))
-- Machine Learning for Store Delivery Scheduling: ([Article](https://www.samirsaci.com/machine-learning-for-store-delivery-scheduling/))
+- Machine Learning for Store Delivery Scheduling: ([Article](https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-2-replenishment-6ded544be81b))
 
 #### Inventory Management for Retail 🛒
 - Inventory Management for Retail — Periodic Review Policy: ([Article](https://towardsdatascience.com/inventory-management-for-retail-periodic-review-policy-4399330ce8b0)) - ([Github Repository](https://github.com/samirsaci/inventory-periodic))
@@ -103,7 +104,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) to connect or disc
 - Supply Chain Optimization with Python: ([Article](https://towardsdatascience.com/supply-chain-optimization-with-python-23ae9b28fd0b)) - ([Github Repository](https://github.com/samirsaci/supply-chain-optimization)) - ([Video Tutorial](https://youtu.be/gF9ds3CH3N4))
 - Raw Materials Optimization for Food Manufacturing with Python: ([Article](https://towardsdatascience.com/raw-materials-optimization-for-food-manufacturing-with-python-fbf2be4a74)) - ([Github Repository](https://github.com/samirsaci/raw-materials)) - ([Video Tutorial](https://youtu.be/1q4RqR0mgFY))
 
-#### Continuous Improvement and Lean Six Sigma for Supply Chain [🧑‍🏭](https://www.samirsaci.com/tag/lean-six-sigma/)
+#### Continuous Improvement and Lean Six Sigma for Supply Chain 🧑‍🏭
 - Statistical Sampling for Process Improvement using Python: ([Article](https://towardsdatascience.com/statistical-sampling-for-process-improvement-using-python-9decc7b8288d)) 
 - Supply Chain Process Design using the Queueing Theory: ([Article](https://towardsdatascience.com/supply-chain-process-design-using-the-queueing-theory-2ad75e58d1f3/)) - ([Github Repository](https://github.com/samirsaci/queing-theory)) - ([Video Tutorial](https://youtu.be/COcoxQ8NhzM))
 - Lean Six Sigma with Python — Chi-Squared Test: ([Article](https://s-saci95.medium.com/lean-six-sigma-with-python-chi-squared-test-bd61489cb0cb)) - ([Github Repository](https://github.com/samirsaci/lss-chi-squared)) - ([Video Tutorial](https://youtu.be/Voaq0l39LuE))
@@ -111,7 +112,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) to connect or disc
 - Lean Six Sigma with Python — Kruskal Wallis Test: ([Article](https://towardsdatascience.com/lean-six-sigma-data-analytics-with-python-kruskal-wallis-test-3afafa097ed)) - ([Github Repository](https://github.com/samirsaci/lss-kruskal-wallis)) - ([Video Tutorial](https://youtu.be/GAvo3BaCvso))
 - Central Limit Theorem for Process Improvement with Python: ([Article](https://towardsdatascience.com/central-limit-theorem-for-process-improvement-with-python-483126e33b07))
 
-#### Transportation Operations Optimization using Python [🚚](https://www.samirsaci.com/tag/transportation/)
+#### Transportation Operations Optimization using Python 🚚
 - Transportation Network Analysis with Graph Theory: ([Article](https://towardsdatascience.com/transportation-network-analysis-with-graph-theory-55eceb7e4de4)) - ([Github Repository](https://github.com/samirsaci/graph-theory)) - ([Video Tutorial](https://youtu.be/lhDBTlsGDVc))
 - Build a Real-Time Shipment Tracking Tool using a Telegram Bot: ([Article](https://towardsdatascience.com/build-a-real-time-shipment-tracking-tool-using-a-telegram-bot-beb6ab29fca3)) - ([Github Repository](https://github.com/samirsaci/telegram_transport)) - ([Video Tutorial](https://youtu.be/VQNil1uR1js))
 - Build Your Free GPS Routing API with Python Flask: ([Article](https://medium.com/nerd-for-tech/build-your-free-gps-routing-api-to-calculate-road-distances-143632cc4917)) - ([Github Repository](https://github.com/samirsaci/geocoding-api))
@@ -119,7 +120,7 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) to connect or disc
 - Optimize E-Commerce Last-Mile Delivery with Python: ([Article](https://towardsdatascience.com/optimize-e-commerce-last-mile-delivery-with-python-ab9ba37d214c)) - ([Github Repository](https://github.com/samirsaci/last-mile))
 - Visualisation and Costing of Truck Transport Network with Python: ([Article](https://towardsdatascience.com/road-transportation-optimization-with-python-part-1-visualisation-costing-698eadcdce0b))
 
-#### Warehousing Operations Optimization using Python [📦](https://www.samirsaci.com/tag/warehousing/)
+#### Warehousing Operations Optimization using Python 📦
 - Scheduling of Luxury Goods Final Assembly Lines with Python: ([Article](https://towardsdatascience.com/scheduling-of-luxury-goods-final-assembly-lines-with-python-e5c4b0590bfc)) - ([Video Tutorial](https://youtu.be/BRjhhdWjPc4))
 - Deep Reinforcement Learning for AGV Routing: ([Article](https://towardsdatascience.com/deep-reinforcement-learning-for-agv-routing-a9b9fe055304))
 - Reduce Warehouse Space with the Pareto Principle using Python: ([Article](https://towardsdatascience.com/reduce-warehouse-space-with-the-pareto-principle-using-python-e722a6babe0e)) - ([Github Repository](https://github.com/samirsaci/pareto-warehouse-layout)) - ([Video Tutorial](https://youtu.be/BRjhhdWjPc4))
@@ -138,15 +139,15 @@ Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) to connect or disc
 
 #### Interactive Visualization 📊
 - Deploy Logistics Operational Dashboards using DataPane: ([Article](https://towardsdatascience.com/deploy-logistics-operational-dashboards-using-datapane-585cf19532f1)) - ([Github Repository](https://github.com/samirsaci/ops-dashboard))
-- Vaccination Centers Availability in Paris using Google Maps Viz Tool: ([Demo](https://centre-vaccin.herokuapp.com/))
+- Vaccination Centers Availability in Paris using Google Maps Viz Tool: ([Demo](https://vaccin.onrender.com/))
 - Build Interactive Charts using Flask and D3.js: ([Article](https://towardsdatascience.com/build-interactive-charts-using-flask-and-d3-js-70f715a76f93)) - ([Github Repository](https://github.com/samirsaci/matrix-ecommerce))
 - Build an Interactive Matrix Chart of Les Miserables Characters using Flask and D3.js: ([Github Repository](https://github.com/samirsaci/matrix-miserables))
-- Violin Plot using Flask + D3.js: ([Demo](https://samirsaci.com/violin-plot.html)) - ([Github Repository](https://github.com/samirsaci/violin-plot))
-- Hexagons Map using D3.js: ([Demo](https://samirsaci.com/mapping.html))
-- Cosmetics Product Sales Sankey Chart using D3.js: ([Demo](https://samirsaci.com/market-sankey.html))
+- Violin Plot using Flask + D3.js: ([Demo](https://samirsaci.github.io/violin-plot.html)) - ([Github Repository](https://github.com/samirsaci/violin-plot))
+- Hexagons Map using D3.js: ([Demo](https://samirsaci.github.io/mapping.html))
+- Cosmetics Product Sales Sankey Chart using D3.js: ([Demo](https://samirsaci.github.io/market-sankey.html))
 
 #### Data & Business
-- What Is Data Quality?: ([Article](https://medium.com/towards-data-science/what-is-data-quality-f2c0274a6404))
+- What Is Data Quality?: ([Article](https://towardsdatascience.com/what-is-data-quality-f2c0274a6404))
 - What is Business Intelligence?: ([Article](https://towardsdatascience.com/what-is-business-intelligence-bf1de730319c)) 
 
 <!--
