@@ -16,7 +16,6 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - 🐤 [Twitter](https://x.com/Samir_Saci_)
 
 **I share content on**
-- Ⓜ️ [Medium](https://medium.com/@s-saci95)
 - 🕸️ [My Personal Blog](https://samirsaci.com) where you can find articles regarding Data Science for Supply Chain Optimization 🚚, Sustainability 🌳 and Productivity ⌚
 - 🚚 [Youtube Channel: Supply Science](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) about Supply Chain Analytics and Sustainability
 - ⏲️ [Youtube Channel: Productive Data](https://www.youtube.com/channel/UCiYf8BKpRmuPMLnoic74LyA) about data solutions to improve your productivity with automation.
