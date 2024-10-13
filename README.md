@@ -5,7 +5,7 @@ I'm Samir, a **Senior Supply Chain Engineer** based in Paris. I am passionate ab
 #### 📰 Personal Blog
 <p align="center">
   <a href="https://www.samirsaci.com">
-  <img height=50px align="center" src="https://www.samirsaci.com/content/images/2024/10/image.png">
+  <img  align="center" src="https://www.samirsaci.com/content/images/2024/10/image.png">
   </a>
 </p>
 
