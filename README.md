@@ -4,36 +4,26 @@
   </a>
 </p>
 
-### 👋 Hi there
+### 👋 Hi there, I'm Samir.
 
-I'm Samir, a *** Supply Chain and Data Science** consultant based in Paris. I am passionate about using **Data Science** and **Python programming** to optimize **Supply Chain Operations**, reduce the environmental impact of companies and maximize personal productivity. 
+A *** Supply Chain and Data Science** consultant based in Paris. I am passionate about using **Data Science** and **Python programming** to optimize **Supply Chain Operations**, reduce the environmental impact of companies and maximize personal productivity. 
 
-#### 📰 Personal Blog
+### Do you need support in your projects?
+If you’re looking for tailored consulting solutions to **optimize your supply chain and meet sustainability goals**, contact me here: [LogiGreen Consulting](https://www.logi-green.com/)
+
+**Let's connect on**
+- 👨‍💼 [Linkedin](https://www.linkedin.com/in/samir-saci)
+- 🐤 [Twitter](https://x.com/Samir_Saci_)
+- 
+
+I share content on
+- Ⓜ️ [Medium](https://medium.com/@s-saci95)
+- 🕸️ [My Personal Blog](https://samirsaci.com) where you can find articles regarding Data Science for Supply Chain Optimization 🚚, Sustainability 🌳 and Productivity ⌚
+- 🚚 [Youtube Channel: Supply Science](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) about Supply Chain Analytics and Sustainability
+- ⏲️ [Youtube Channel: Productive Data](https://www.youtube.com/channel/UCiYf8BKpRmuPMLnoic74LyA) about data solutions to improve your productivity with automation.
 
 
-[Personal Blog](https://samirsaci.com) to find articles regarding Data Science for Warehousing 📦, Transportation 🚚, Demand Forecasting 📈.
-
-#### 🎥 Supply Science Youtube Channel
-<p align="center">
-  <a href="https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g">
-  <img height=200px align="center" src="https://samirsaci.github.io/static/img/Image%20Presentation.gif">
-  </a>
-</p>
-
-[Youtube Channel](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) to find **short animated videos** to learn more about **Logistics Operations** and **Supply Chain Process Optimization**.
-
-### 👉 Let's connect and collaborate!
-If you're seeking expert consultancy in Supply Chain Management or Data Science applications, feel free to reach out.
-
-Add me on [Linkedin](https://www.linkedin.com/in/samir-saci/) to connect or discuss potential projects.
-
-### 📘 Your complete guides for Supply Chain Analytics and Productivity
-
-60+ case studies with source code, dummy data and mathematical concepts here 👉 [Supply Chain Analytics Cheat Sheet](https://bit.ly/supply-chain-cheat)
-
-15+ tools and examples of analytics tools to boost your productivity 👉 [Productivity Cheat Sheet](https://bit.ly/data-for-productivity)
-
-### 👷 My Web Applications & GPTs
+### 👷 What am I working on?
 - Sustainable Supply Chain Network Optimization 🌲: ([Try it!](https://cloud.viktor.ai/public/sustainable-supply-chain-network-optimization)) ([Video Tutorial](https://youtu.be/WG3JnZBQ2Qc))
 - Automate ABC Analysis & Product Segmentation  📈: ([Try it!](https://cloud.viktor.ai/public/product-segmentation-abc-analysis))
 - Production Planning Optimization 🏭: ([Try it!](https://cloud.viktor.ai/public/production-planning))
