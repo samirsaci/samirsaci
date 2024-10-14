@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.samirsaci.com">
+  <a href="https://www.samirsaci.com/about">
   <img  align="center" src="https://www.samirsaci.com/content/images/2024/10/image.png">
   </a>
 </p>
