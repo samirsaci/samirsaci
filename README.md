@@ -138,7 +138,12 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 
 #### Data & Business
 - What Is Data Quality?: ([Article](https://towardsdatascience.com/what-is-data-quality-f2c0274a6404))
-- What is Business Intelligence?: ([Article](https://towardsdatascience.com/what-is-business-intelligence-bf1de730319c)) 
+- What is Business Intelligence?: ([Article](https://towardsdatascience.com/what-is-business-intelligence-bf1de730319c))
+
+If you want to reward my work with a small contribution:
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="samirsaci" data-color="#FFDD00" data-emoji=""  data-font="Inter" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 
 <!--
 [![Samir's github stats](https://github-readme-stats.vercel.app/api?username=samirsaci&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
