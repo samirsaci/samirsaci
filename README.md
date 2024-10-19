@@ -141,9 +141,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - What is Business Intelligence?: ([Article](https://towardsdatascience.com/what-is-business-intelligence-bf1de730319c))
 
 If you want to reward my work with a small contribution:
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="samirsaci" data-color="#FFDD00" data-emoji=""  data-font="Inter" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/samirsaci)
 
 <!--
 [![Samir's github stats](https://github-readme-stats.vercel.app/api?username=samirsaci&count_private=true&show_icons=true&theme=cobalt&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
