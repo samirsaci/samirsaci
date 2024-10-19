@@ -141,6 +141,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - What is Business Intelligence?: ([Article](https://towardsdatascience.com/what-is-business-intelligence-bf1de730319c))
 
 If you want to reward my work with a small contribution:
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/samirsaci)
 
 <!--
