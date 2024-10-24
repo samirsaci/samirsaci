@@ -32,6 +32,12 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 
 ### 🖥️ I've shared my insights about
 
+#### Business Analytics
+- **Are you Aware of the Potential of Your Data Expertise in Driving Business Profitability? -** ([Article](https://towardsdatascience.com/are-you-aware-of-the-potential-of-your-data-expertise-in-driving-business-profitability-16cffb607437))
+- Business Planning with Python — Revenue Optimization: ([Article](https://towardsdatascience.com/business-planning-with-python-revenue-optimization-83387074826d))
+- Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://towardsdatascience.com/business-planning-with-python-inventory-and-cash-flow-management-4f9beb7ecbec))
+- Maximize your Business Profitability with Python: ([Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802)) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
+
 #### Supply Chain Sustainability 🌲
 - Simulate the Challenges of a Circular Economy for Fashion Retail: ([Article](https://towardsdatascience.com/simulate-the-challenges-of-a-circular-economy-for-fashion-retail-5c7e269f0706))
 - How Will Data Science Accelerate the Circular Economy?: ([Article](https://towardsdatascience.com/how-will-data-science-accelerate-the-circular-economy-61a1a22287e5))
@@ -48,11 +54,6 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - Data Analytics for Supply Chain Sustainability: ([Article](https://towardsdatascience.com/data-analytics-for-supply-chain-sustainability-c6066de41609))
 - Sustainable Logistics - Reduce Warehouse Consumables: ([Article](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/)) - ([Video Tutorial](https://youtu.be/0bOAhEPXJ1M))
 - Supply Chain Sustainability Reporting with Python: ([Article](https://towardsdatascience.com/supply-chain-sustainability-reporting-with-python-161c1f63f267))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability)) - ([Video Tutorial](https://youtu.be/ddthuvFQdGY))
-
-#### Business Analytics
-- Business Planning with Python — Revenue Optimization: ([Article](https://towardsdatascience.com/business-planning-with-python-revenue-optimization-83387074826d))
-- Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://towardsdatascience.com/business-planning-with-python-inventory-and-cash-flow-management-4f9beb7ecbec))
-- Maximize your Business Profitability with Python: ([Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802)) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
 
 #### Generative AI: LLMs with LangChain for Supply Chain Analytics
 - Leveraging LLMs with LangChain for Supply Chain Analytics — A Control Tower Powered by GPT: ([Article](https://towardsdatascience.com/leveraging-llms-with-langchain-for-supply-chain-analytics-a-control-tower-powered-by-gpt-21e19b33b5f0))
