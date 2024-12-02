@@ -9,7 +9,7 @@
 A **Supply Chain and Data Science** consultant based in Paris. I am passionate about using **Data Science** and **Python programming** to optimize **Supply Chain Operations**, reduce the environmental impact of companies and maximize personal productivity. 
 
 ### Do you need support in your projects?
-If you’re looking for tailored consulting solutions to **optimize supply chains and meet sustainability goals**, contact: [LogiGreen Consulting](https://www.logi-green.com/)
+If you’re looking for tailored consulting solutions to **optimize supply chains and meet sustainability goals**, contact: [LogiGreen Consulting](https://bit.ly/logi-green-linkedin)
 
 **Let's connect on**
 - 👨‍💼 [Linkedin](https://www.linkedin.com/in/samir-saci)
