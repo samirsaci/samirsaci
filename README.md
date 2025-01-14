@@ -33,12 +33,13 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 ### 🖥️ I've shared my insights about
 
 #### Business Analytics
-- **Are you Aware of the Potential of Your Data Expertise in Driving Business Profitability? -** ([Article](https://towardsdatascience.com/are-you-aware-of-the-potential-of-your-data-expertise-in-driving-business-profitability-16cffb607437))
+- Are you Aware of the Potential of Your Data Expertise in Driving Business Profitability? - ([Article](https://towardsdatascience.com/are-you-aware-of-the-potential-of-your-data-expertise-in-driving-business-profitability-16cffb607437))
 - Business Planning with Python — Revenue Optimization: ([Article](https://towardsdatascience.com/business-planning-with-python-revenue-optimization-83387074826d))
 - Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://towardsdatascience.com/business-planning-with-python-inventory-and-cash-flow-management-4f9beb7ecbec))
 - Maximize your Business Profitability with Python: ([Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802)) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
 
 #### Supply Chain Sustainability 🌲
+- Sustainable Business Strategy with Data Analytics: ([Article](https://towardsdatascience.com/sustainable-business-strategy-with-data-analytics-ce27180f8ddb))
 - Simulate the Challenges of a Circular Economy for Fashion Retail: ([Article](https://towardsdatascience.com/simulate-the-challenges-of-a-circular-economy-for-fashion-retail-5c7e269f0706))
 - How Will Data Science Accelerate the Circular Economy?: ([Article](https://towardsdatascience.com/how-will-data-science-accelerate-the-circular-economy-61a1a22287e5))
 - What are the Sustainable Development Goals? (SDGs): ([Article](https://s-saci95.medium.com/what-are-the-sustainable-development-goals-sdgs-988a1eb2b62b))
