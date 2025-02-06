@@ -33,10 +33,10 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 ### 🖥️ I've shared my insights about
 
 #### Business Analytics
-- Are you Aware of the Potential of Your Data Expertise in Driving Business Profitability? - ([Article](https://towardsdatascience.com/are-you-aware-of-the-potential-of-your-data-expertise-in-driving-business-profitability-16cffb607437))
-- Business Planning with Python — Revenue Optimization: ([Article](https://towardsdatascience.com/business-planning-with-python-revenue-optimization-83387074826d))
-- Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://towardsdatascience.com/business-planning-with-python-inventory-and-cash-flow-management-4f9beb7ecbec))
-- Maximize your Business Profitability with Python: ([Article](https://towardsdatascience.com/maximize-your-business-profitability-with-python-fbefebbdf802)) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
+- Are you Aware of the Potential of Your Data Expertise in Driving Business Profitability? - ([Article](https://www.samirsaci.com/are-you-aware-of-the-potential-of-your-data-expertise-in-driving-business-profitability/))
+- Business Planning with Python — Revenue Optimization: ([Article](https://www.samirsaci.com/business-planning-with-python-revenue-optimization/))
+- Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://www.samirsaci.com/business-planning-with-python-inventory-and-cash-flow-management-2/))
+- Maximize your Business Profitability with Python: ([Article](https://www.samirsaci.com/maximize-your-business-profitability-with-python/)) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
 
 #### Supply Chain Sustainability 🌲
 - Sustainable Business Strategy with Data Analytics: ([Article](https://towardsdatascience.com/sustainable-business-strategy-with-data-analytics-ce27180f8ddb))
@@ -66,7 +66,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - Automate PowerPoint Slides Creation with Python: ([Article](https://towardsdatascience.com/automate-powerpoint-slides-creation-with-python-a639c7d429a6))  - ([Github Repository](https://github.com/samirsaci/automate-powerpoint)) - ([Video Tutorial](https://youtu.be/7CsAJeQeWTc))
 - Automate Operational Reports Distribution in HTML Emails using Python: ([Article](https://towardsdatascience.com/automate-operational-reports-distribution-in-html-emails-using-python-c65c66fc99a6))  - ([Github Repository](https://github.com/samirsaci/automated_report)) - ([Video Tutorial](https://youtu.be/mo3IjpSQBdc))
 - Automate Flash Cards Creation for Language Learning with Python: ([Article](https://towardsdatascience.com/automate-flash-cards-creation-for-language-learning-with-python-67871f4d23b3)) - ([Video Tutorial](https://youtu.be/n5sB-4F-zng))
-- Automate Budget Planning using Linear Programming: ([Article](https://towardsdatascience.com/automate-flash-cards-creation-for-language-learning-with-python-67871f4d23b3)) - ([Github Repository](https://github.com/samirsaci/budget-planning)) - ([Video Tutorial](https://youtu.be/U_9KGjzGlkA))
+- Automate Budget Planning using Linear Programming: ([Article](https://www.samirsaci.com/automate-budget-planning-using-linear-programming/)) - ([Github Repository](https://github.com/samirsaci/budget-planning)) - ([Video Tutorial](https://youtu.be/U_9KGjzGlkA))
 
 #### Logistics Network Performance Management ⏱️
 - What is Business Intelligence?:  ([Article](https://towardsdatascience.com/what-is-business-intelligence-bf1de730319c))
