@@ -59,6 +59,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - Data Analytics for Supply Chain Sustainability: ([Article](https://medium.com/towards-data-science/data-analytics-for-supply-chain-sustainability-c6066de41609))
 - Sustainable Logistics - Reduce Warehouse Consumables: ([Article](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/)) - ([Video Tutorial](https://youtu.be/0bOAhEPXJ1M))
 - Supply Chain Sustainability Reporting with Python: ([Article](https://medium.com/towards-data-science/supply-chain-sustainability-reporting-with-python-161c1f63f267))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability)) - ([Video Tutorial](https://youtu.be/ddthuvFQdGY))
+- Data Science to Reach Carbon Neutrality: ([Article](https://medium.com/data-science-collective/data-science-for-carbone-neutrality-676bcd9625d4))
 
 #### Generative AI: LLMs with LangChain for Supply Chain Analytics
 - Leveraging LLMs with LangChain for Supply Chain Analytics — A Control Tower Powered by GPT: ([Article](https://medium.com/towards-data-science/leveraging-llms-with-langchain-for-supply-chain-analytics-a-control-tower-powered-by-gpt-21e19b33b5f0))
