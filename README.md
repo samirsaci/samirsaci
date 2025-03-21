@@ -34,9 +34,9 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 ### 🖥️ I've shared my insights about
 
 #### Workflow Automation using AI & Analytics with N8N
-- 📦 Electronic Data Interchange (EDI) Message Parsing with Gmail and Google Sheet: [N8N Template](https://n8n.io/workflows/3221-electronic-data-interchange-edi-message-parsing-with-gmail-and-google-sheet/)
-- 🉑 Generate Anki Flash Cards for Language Learning with Google Translate and GPT-4o: [N8N Template](https://n8n.io/workflows/3195-generate-anki-flash-cards-for-language-learning-with-google-translate-and-gpt-4o/)
-- 🚚 Automate Delivery Confirmation with Telegram Bot, Google Drive and Gmail: [N8N Template](https://n8n.io/workflows/3204-automate-delivery-confirmation-with-telegram-bot-google-drive-and-gmail/)
+- Electronic Data Interchange (EDI) Message Parsing with Gmail and Google Sheet: [N8N Template](https://n8n.io/workflows/3221-electronic-data-interchange-edi-message-parsing-with-gmail-and-google-sheet/)
+- Generate Anki Flash Cards for Language Learning with Google Translate and GPT-4o: [N8N Template](https://n8n.io/workflows/3195-generate-anki-flash-cards-for-language-learning-with-google-translate-and-gpt-4o/)
+- Automate Delivery Confirmation with Telegram Bot, Google Drive and Gmail: [N8N Template](https://n8n.io/workflows/3204-automate-delivery-confirmation-with-telegram-bot-google-drive-and-gmail/)
 
 #### Business Analytics
 - Are you Aware of the Potential of Your Data Expertise in Driving Business Profitability? - ([Article](https://medium.com/towards-data-science/are-you-aware-of-the-potential-of-your-data-expertise-in-driving-business-profitability-16cffb607437
