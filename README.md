@@ -47,7 +47,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - Business Planning with Python — Revenue Optimization: ([Article](https://medium.com/towards-data-science/business-planning-with-python-revenue-optimization-83387074826d
 ))
 - Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://medium.com/towards-data-science/business-planning-with-python-inventory-and-cash-flow-management-4f9beb7ecbec
-))
+)) - ([Video Tutorial](https://youtu.be/XAS5hLDHfQM?si=bETc9hyt-xHBGsru)
 - Maximize your Business Profitability with Python: ([Article](https://medium.com/towards-data-science/maximize-your-business-profitability-with-python-fbefebbdf802
 )) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
 
