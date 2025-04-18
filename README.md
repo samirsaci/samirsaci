@@ -22,7 +22,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 
 
 ### 👷 What am I working on?
-- Workflow Automation using N8N: [Check my Templates](https://n8n.io/creators/samirsaci/)
+- AI Workflow Automation using N8N: [Check my Templates](https://n8n.io/creators/samirsaci/)
 - Sustainable Supply Chain Network Optimization 🌲: ([Try it!](https://cloud.viktor.ai/public/sustainable-supply-chain-network-optimization)) ([Video Tutorial](https://youtu.be/WG3JnZBQ2Qc))
 - Automate ABC Analysis & Product Segmentation  📈: ([Try it!](https://cloud.viktor.ai/public/product-segmentation-abc-analysis))
 - Production Planning Optimization 🏭: ([Try it!](https://cloud.viktor.ai/public/production-planning))
