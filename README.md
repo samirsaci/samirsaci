@@ -22,7 +22,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 
 
 ### 👷 What am I working on?
-- AI Workflow Automation using N8N: [Check my Templates](https://n8n.io/creators/samirsaci/)
+- Workflow Automation using N8N: [Check my Templates](https://n8n.io/creators/samirsaci/)
 - Sustainable Supply Chain Network Optimization 🌲: ([Try it!](https://cloud.viktor.ai/public/sustainable-supply-chain-network-optimization)) ([Video Tutorial](https://youtu.be/WG3JnZBQ2Qc))
 - Automate ABC Analysis & Product Segmentation  📈: ([Try it!](https://cloud.viktor.ai/public/product-segmentation-abc-analysis))
 - Production Planning Optimization 🏭: ([Try it!](https://cloud.viktor.ai/public/production-planning))
@@ -33,7 +33,11 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 
 ### 🖥️ I've shared my insights about
 
+### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
+- How to Build an AI Budget-Planning Optimizer for Your 2026 CAPEX Review: LangGraph, FastAPI, and n8n: [Article](https://towardsdatascience.com/how-to-build-an-ai-budget-planning-optimizer-for-your-2026-capex-review-langgraph-fastapi-and-n8n/)
+
 #### Workflow Automation using AI & Analytics with N8N
+- AI Agents for Supply Chain Optimisation with n8n: Production Planning: [Tutorial Video](https://youtu.be/yTgFafhtE9s?si=h67jOTOl6yU4RLfV) / [Article](https://towardsdatascience.com/ai-agents-for-supply-chain-optimisation-production-planning/)
 - How to use n8n for Supply Chain Workflow Automation?: [General Video](https://www.youtube.com/watch?v=Zx67gfUGIO0) / [Tutorial to create an AI Agent](https://www.youtube.com/watch?v=kQ8dO_30SB0)
 - AI-Powered Supply Chain Control Tower with BigQuery and GPT-4o: [N8N Template](https://n8n.io/workflows/3305-ai-powered-supply-chain-control-tower-with-bigquery-and-gpt-4o/) / [Tutorial Video](https://www.youtube.com/watch?v=Z-ARwyXe1jY)
 - Electronic Data Interchange (EDI) Message Parsing with Gmail and Google Sheet: [N8N Template](https://n8n.io/workflows/3221-electronic-data-interchange-edi-message-parsing-with-gmail-and-google-sheet/) / [Tutorial Video](https://www.youtube.com/watch?v=-phwXeYk7Es)
