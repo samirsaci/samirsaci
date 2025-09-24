@@ -34,7 +34,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 ### 🖥️ I've shared my insights about
 
 #### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
-- How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/)
+- How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/) / [Video Tutorial](https://www.youtube.com/watch?v=JjUEgkK_yD8)
 - How to Build an AI Budget-Planning Optimiser for Your 2026 CAPEX Review: LangGraph, FastAPI, and n8n: [Article](https://towardsdatascience.com/how-to-build-an-ai-budget-planning-optimizer-for-your-2026-capex-review-langgraph-fastapi-and-n8n/)
 
 #### Workflow Automation using AI & Analytics with n8n
