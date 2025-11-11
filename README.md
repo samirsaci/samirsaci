@@ -34,6 +34,8 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 ### 🖥️ I've shared my insights about
 
 #### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
+- AI Agent to Monitor your n8n Workflow (MCP Server, Claude AI): [GitHub Repository](https://github.com/samirsaci/mcp-n8n-monitor) / [Tutorial](https://youtu.be/oJzNnHIusZs)
+- How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/) / [Video](https://youtu.be/oJzNnHIusZs)
 - MCP Server for Web Scraping and SEO Analysis: [GitHub Repository](https://github.com/samirsaci/mcp-webscraper) / [Tutorial](https://www.youtube.com/watch?v=6hHZtiQ3M3U)
 - How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://www.samirsaci.com/how-i-deployed-an-ai-agent-for-sustainable-supply-chain-optimisation/) / [Video Tutorial](https://www.youtube.com/watch?v=JjUEgkK_yD8)
 - How to Build an AI Budget-Planning Optimiser for Your 2026 CAPEX Review: LangGraph, FastAPI, and n8n: [Article](https://www.samirsaci.com/build-an-ai-agent-for-strategic-budget-planning-with-langgraph-and-n8n/)
