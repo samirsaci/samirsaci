@@ -22,7 +22,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 
 ### 👷💪 What am I currently working on?
 
-### Web Applications & Workflow Automations
+#### Web Applications & Workflow Automations
 - Workflow Automation using n8: [Check my Templates](https://n8n.io/creators/samirsaci/)
 - Sustainable Supply Chain Network Optinmization 🌲: ([Try it!](https://cloud.viktor.ai/public/sustainable-supply-chain-network-optimization)) ([Video Tutorial](https://youtu.be/WG3JnZBQ2Qc))
 - Automate ABC Analysis & Product Segmentation  📈: ([Try it!](https://cloud.viktor.ai/public/product-segmentation-abc-analysis))
@@ -32,7 +32,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - The Supply Chain Analytics Scholar GPT - a smart agent connected to a knowledge database of 60+ articles:  ([Custom GPT](https://bit.ly/supply-chain-scholar))
 - The Data Productivity Guru: ([Custom GPT](https://bit.ly/data-produtivity-guru))
 
-### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
+#### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
 - AI Agent to Monitor your n8n Workflow (MCP Server, Claude AI): [GitHub Repository](https://github.com/samirsaci/mcp-n8n-monitor) / [Tutorial](https://youtu.be/oJzNnHIusZs)
 - How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/) / [Video](https://youtu.be/oJzNnHIusZs)
 - MCP Server for Web Scraping and SEO Analysis: [GitHub Repository](https://github.com/samirsaci/mcp-webscraper) / [Tutorial](https://www.youtube.com/watch?v=6hHZtiQ3M3U)
