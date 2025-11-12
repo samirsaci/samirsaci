@@ -20,7 +20,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - 🚚 [Youtube Channel: Supply Science](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) about Supply Chain Analytics and Sustainability
 - ⏲️ [Youtube Channel: Productive Data](https://www.youtube.com/channel/UCiYf8BKpRmuPMLnoic74LyA) about data solutions to improve your productivity with automation.
 
-##👷 What am I working on?
+### 👷💪 What am I currently working on?
 
 ### Web Applications & Workflow Automations
 - Workflow Automation using n8: [Check my Templates](https://n8n.io/creators/samirsaci/)
