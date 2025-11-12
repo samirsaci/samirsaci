@@ -20,8 +20,9 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - 🚚 [Youtube Channel: Supply Science](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) about Supply Chain Analytics and Sustainability
 - ⏲️ [Youtube Channel: Productive Data](https://www.youtube.com/channel/UCiYf8BKpRmuPMLnoic74LyA) about data solutions to improve your productivity with automation.
 
+##👷 What am I working on?
 
-### 👷 What am I working on?
+### Web Applications & Workflow Automations
 - Workflow Automation using n8: [Check my Templates](https://n8n.io/creators/samirsaci/)
 - Sustainable Supply Chain Network Optinmization 🌲: ([Try it!](https://cloud.viktor.ai/public/sustainable-supply-chain-network-optimization)) ([Video Tutorial](https://youtu.be/WG3JnZBQ2Qc))
 - Automate ABC Analysis & Product Segmentation  📈: ([Try it!](https://cloud.viktor.ai/public/product-segmentation-abc-analysis))
@@ -31,13 +32,32 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - The Supply Chain Analytics Scholar GPT - a smart agent connected to a knowledge database of 60+ articles:  ([Custom GPT](https://bit.ly/supply-chain-scholar))
 - The Data Productivity Guru: ([Custom GPT](https://bit.ly/data-produtivity-guru))
 
-### 🖥️ I've shared my insights about
-
-#### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
+### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
 - AI Agent to Monitor your n8n Workflow (MCP Server, Claude AI): [GitHub Repository](https://github.com/samirsaci/mcp-n8n-monitor) / [Tutorial](https://youtu.be/oJzNnHIusZs)
 - How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/) / [Video](https://youtu.be/oJzNnHIusZs)
 - MCP Server for Web Scraping and SEO Analysis: [GitHub Repository](https://github.com/samirsaci/mcp-webscraper) / [Tutorial](https://www.youtube.com/watch?v=6hHZtiQ3M3U)
 - How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://www.samirsaci.com/how-i-deployed-an-ai-agent-for-sustainable-supply-chain-optimisation/) / [Video Tutorial](https://www.youtube.com/watch?v=JjUEgkK_yD8)
+
+### 🖥️ I've shared my insights about
+
+#### AI & Analytics for Sustainability 🌲
+- AI Agent for Sustainable Supply-Chain Network Optimisation using MCP Server with Claude AI: [Article](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/) / [Video](https://youtu.be/oJzNnHIusZs)
+- Sustainable Business Strategy with Data Analytics: ([Article](https://www.samirsaci.com/sustainable-business-strategy-with-data-analytics/))
+- Simulate the Challenges of a Circular Economy for Fashion Retail: ([Article](https://www.samirsaci.com/what-are-the-challenges-of-a-circular-economy-for-fashion-retail/))
+- How Will Data Science Accelerate the Circular Economy?: ([Article](https://www.samirsaci.com/how-will-data-science-accelerate-the-circular-economy/))
+- What are the Sustainable Development Goals? (SDGs): ([Article](https://www.samirsaci.com/sustainable-development-goals/))
+- What is ESG Reporting?: ([Article](https://www.samirsaci.com/what-is-esg-reporting/))
+- What Greenwashing Is, and How We Can Use Analytics to Detect It: ([Article]()) 
+- Create a Sustainable Supply Chain Optimization Web App: ([Article](https://medium.com/p/20599b98cab6)) ([Video Tutorial](https://youtu.be/WG3JnZBQ2Qc))
+- Leveraging Data Analytics for Sustainable Business Transformation: ([Article](https://www.samirsaci.com/leveraging-data-analytics-for-sustainable-business-transformation/))
+- How Sustainable is Your Circular Economy?: ([Article](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/))
+- Green Inventory Management - Case Study: ([Article](https://www.samirsaci.com/green-inventory-management-case-study/))
+- What is Sustainable Sourcing?: ([Article](https://www.samirsaci.com/what-is-sustainable-sourcing/))
+- What is a Life Cycle Assessment? LCA: ([Article](https://www.samirsaci.com/what-is-a-life-cycle-assessment-lca-2/))
+- What is a Circular Economy?: ([Article](https://www.samirsaci.com/what-is-a-circular-economy/))
+- Data Analytics for Supply Chain Sustainability: ([Article](https://www.samirsaci.com/data-analytics-for-supply-chain-sustainability/))
+- Sustainable Logistics - Reduce Warehouse Consumables: ([Article](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/)) - ([Video Tutorial](https://youtu.be/0bOAhEPXJ1M))
+- Supply Chain Sustainability Reporting with Python: ([Article](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability)) - ([Video Tutorial](https://youtu.be/ddthuvFQdGY))
 - How to Build an AI Budget-Planning Optimiser for Your 2026 CAPEX Review: LangGraph, FastAPI, and n8n: [Article](https://www.samirsaci.com/build-an-ai-agent-for-strategic-budget-planning-with-langgraph-and-n8n/)
 
 #### Workflow Automation using AI & Analytics with n8n
@@ -55,24 +75,6 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - Business Planning with Python — Revenue Optimization: ([Article](https://www.samirsaci.com/business-planning-with-python-revenue-optimization/))
 - Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://www.samirsaci.com/business-planning-with-python-inventory-and-cash-flow-management-2/)) - ([Video Tutorial](https://youtu.be/XAS5hLDHfQM?si=bETc9hyt-xHBGsru)
 - Maximize your Business Profitability with Python: ([Article](https://www.samirsaci.com/maximize-your-business-profitability-with-python/)) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
-
-#### Supply Chain Sustainability 🌲
-- Sustainable Business Strategy with Data Analytics: ([Article](https://www.samirsaci.com/sustainable-business-strategy-with-data-analytics/))
-- Simulate the Challenges of a Circular Economy for Fashion Retail: ([Article](https://www.samirsaci.com/what-are-the-challenges-of-a-circular-economy-for-fashion-retail/))
-- How Will Data Science Accelerate the Circular Economy?: ([Article](https://www.samirsaci.com/how-will-data-science-accelerate-the-circular-economy/))
-- What are the Sustainable Development Goals? (SDGs): ([Article](https://www.samirsaci.com/sustainable-development-goals/))
-- What is ESG Reporting?: ([Article](https://www.samirsaci.com/what-is-esg-reporting/))
-- What Greenwashing Is, and How We Can Use Analytics to Detect It: ([Article]()) 
-- Create a Sustainable Supply Chain Optimization Web App: ([Article](https://medium.com/p/20599b98cab6)) ([Video Tutorial](https://youtu.be/WG3JnZBQ2Qc))
-- Leveraging Data Analytics for Sustainable Business Transformation: ([Article](https://www.samirsaci.com/leveraging-data-analytics-for-sustainable-business-transformation/))
-- How Sustainable is Your Circular Economy?: ([Article](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/))
-- Green Inventory Management - Case Study: ([Article](https://www.samirsaci.com/green-inventory-management-case-study/))
-- What is Sustainable Sourcing?: ([Article](https://www.samirsaci.com/what-is-sustainable-sourcing/))
-- What is a Life Cycle Assessment? LCA: ([Article](https://www.samirsaci.com/what-is-a-life-cycle-assessment-lca-2/))
-- What is a Circular Economy?: ([Article](https://www.samirsaci.com/what-is-a-circular-economy/))
-- Data Analytics for Supply Chain Sustainability: ([Article](https://www.samirsaci.com/data-analytics-for-supply-chain-sustainability/))
-- Sustainable Logistics - Reduce Warehouse Consumables: ([Article](https://www.samirsaci.com/sustainable-logistics-reduce-packing-and-consummables-consumption/)) - ([Video Tutorial](https://youtu.be/0bOAhEPXJ1M))
-- Supply Chain Sustainability Reporting with Python: ([Article](https://www.samirsaci.com/supply-chain-sustainability-reporting-with-python/))  - ([Github Repository](https://github.com/samirsaci/supply-chain-sustainability)) - ([Video Tutorial](https://youtu.be/ddthuvFQdGY))
 
 #### Generative AI: LLMs with LangChain for Supply Chain Analytics
 - Leveraging LLMs with LangChain for Supply Chain Analytics — A Control Tower Powered by GPT: ([Article](https://www.samirsaci.com/leveraging-llms-with-langchain-for-supply-chain-analytics-a-control-tower-powered-by-gpt/))
