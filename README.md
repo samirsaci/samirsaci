@@ -24,13 +24,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 
 #### Web Applications & Workflow Automations
 - Workflow Automation using n8: [Check my Templates](https://github.com/samirsaci/n8n_workflow)
-- Sustainable Supply Chain Network Optinmization 🌲: ([Try it!](https://cloud.viktor.ai/public/sustainable-supply-chain-network-optimization)) ([Video Tutorial](https://youtu.be/WG3JnZBQ2Qc))
-- Automate ABC Analysis & Product Segmentation  📈: ([Try it!](https://cloud.viktor.ai/public/product-segmentation-abc-analysis))
-- Production Planning Optimization 🏭: ([Try it!](https://cloud.viktor.ai/public/production-planning))
-- Improve Warehouse Productivity using Order Batching 📦: ([Github Repository](https://github.com/samirsaci/picking-route))
-- The Supply Chain Analyst GPT to Automate ABC Analysis & Pareto Chart: ([Custom GPT](https://bit.ly/the-supply-chain-analyst))
-- The Supply Chain Analytics Scholar GPT - a smart agent connected to a knowledge database of 60+ articles:  ([Custom GPT](https://bit.ly/supply-chain-scholar))
-- The Data Productivity Guru: ([Custom GPT](https://bit.ly/data-produtivity-guru))
+- LogiGreen Apps - A Supply Chain Analytics Super-App for your Operational Transformation: [Try it here!]()
 
 #### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
 - AI Agent to Monitor your n8n Workflow (MCP Server, Claude AI): [GitHub Repository](https://github.com/samirsaci/mcp-n8n-monitor) / [Tutorial](https://youtu.be/oJzNnHIusZs)
