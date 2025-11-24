@@ -63,15 +63,15 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - AI Agents for Supply Chain Optimisation with n8n: Production Planning: [Tutorial Video](https://youtu.be/yTgFafhtE9s?si=h67jOTOl6yU4RLfV) / [Article](https://www.samirsaci.com/ai-agents-for-supply-chain-optimisation-with-n8n/)
 - How to use n8n for Supply Chain Workflow Automation?: [General Video](https://www.youtube.com/watch?v=Zx67gfUGIO0) / [Tutorial to create an AI Agent](https://www.youtube.com/watch?v=kQ8dO_30SB0)
 - From Python to JavaScript: A Playbook for Data Analytics in n8n with Code Node Examples: [Article](https://towardsdatascience.com/from-python-to-javascript-a-playbook-for-data-analytics-in-n8n-with-code-node-examples/)
-- AI-Powered Supply Chain Control Tower with BigQuery and GPT-4o: [N8N Template](https://n8n.io/workflows/3305-ai-powered-supply-chain-control-tower-with-bigquery-and-gpt-4o/) / [Tutorial Video](https://www.youtube.com/watch?v=Z-ARwyXe1jY)
-- Electronic Data Interchange (EDI) Message Parsing with Gmail and Google Sheet: [N8N Template](https://n8n.io/workflows/3221-electronic-data-interchange-edi-message-parsing-with-gmail-and-google-sheet/) / [Tutorial Video](https://www.youtube.com/watch?v=-phwXeYk7Es)
-- Generate Anki Flash Cards for Language Learning with Google Translate and GPT-4o: [N8N Template](https://n8n.io/workflows/3195-generate-anki-flash-cards-for-language-learning-with-google-translate-and-gpt-4o/) / [Tutorial Video](https://www.youtube.com/watch?v=2mRZJATUTDw)
-- AI-Powered Language Teacher with Telegram, Google Sheet and GPT-4o: [N8N Template](https://n8n.io/workflows/3295-ai-powered-language-teacher-with-telegram-google-sheet-and-gpt-4o/) / [Tutorial Video](https://www.youtube.com/watch?v=MQV8wDSug7M)
-- Automate Delivery Confirmation with Telegram Bot, Google Drive and Gmail: [N8N Template](https://n8n.io/workflows/3204-automate-delivery-confirmation-with-telegram-bot-google-drive-and-gmail/) / [Tutorial Video](https://www.youtube.com/watch?v=9NS4RYaOwJ8)
+- AI-Powered Supply Chain Control Tower with BigQuery and GPT-4o: [Tutorial Video + Template](https://www.youtube.com/watch?v=Z-ARwyXe1jY)
+- Electronic Data Interchange (EDI) Message Parsing with Gmail and Google Sheet: [Tutorial Video + Template](https://www.youtube.com/watch?v=-phwXeYk7Es)
+- Generate Anki Flash Cards for Language Learning with Google Translate and GPT-4o: [Tutorial Video + Template](https://www.youtube.com/watch?v=2mRZJATUTDw)
+- AI-Powered Language Teacher with Telegram, Google Sheet and GPT-4o: [Tutorial Video + Template](https://www.youtube.com/watch?v=MQV8wDSug7M)
+- Automate Delivery Confirmation with Telegram Bot, Google Drive and Gmail:  [Tutorial Video + Template](https://www.youtube.com/watch?v=9NS4RYaOwJ8)
 
 #### Business Analytics
 - Are you Aware of the Potential of Your Data Expertise in Driving Business Profitability? - ([Article](https://www.samirsaci.com/are-you-aware-of-the-potential-of-your-data-expertise-in-driving-business-profitability/))
-- Business Planning with Python — Revenue Optimization: ([Article](https://www.samirsaci.com/business-planning-with-python-revenue-optimization/))
+- Business Planning with Python — Revenue Optimisation: ([Article](https://www.samirsaci.com/business-planning-with-python-revenue-optimization/))
 - Business Planning with Python — Inventory and Cash Flow Management: ([Article](https://www.samirsaci.com/business-planning-with-python-inventory-and-cash-flow-management-2/)) - ([Video Tutorial](https://youtu.be/XAS5hLDHfQM?si=bETc9hyt-xHBGsru)
 - Maximize your Business Profitability with Python: ([Article](https://www.samirsaci.com/maximize-your-business-profitability-with-python/)) - ([Github Repository](https://github.com/samirsaci/business-profitability)) - ([Video Tutorial](https://youtu.be/gHVaf8ldiIs))
 
