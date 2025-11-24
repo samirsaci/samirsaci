@@ -37,6 +37,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 #### Complete Supply Chain Analytics Tutorials
 - Tutorial Supply Chain Analytics with Python – ABC Analysis: [Repository](https://github.com/samirsaci/tutorial-abc-analysis) / [Tutorial](https://youtu.be/Qglr9Yqa44I)
 - Tutorial Automate Excel for Supply Chain with VBA: [Repository](https://github.com/samirsaci/supply-science-vba) / [Tutorial](https://www.youtube.com/watch?v=yhPe_P1u2aI)
+- Create your First Supply Chain Analytics App with Streamlit: [Repository](https://github.com/samirsaci/inventory-streamlit-app) / [Tutorial](https://youtu.be/FC8nULkvHcQ)
 
 #### AI & Analytics for Sustainability 🌲
 - AI Agent for Sustainable Supply-Chain Network Optimisation using MCP Server with Claude AI: [Article](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/) / [Video](https://youtu.be/oJzNnHIusZs)
