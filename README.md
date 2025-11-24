@@ -24,7 +24,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 
 #### Web Applications & Workflow Automations
 - Workflow Automation using n8: [Check my Templates](https://github.com/samirsaci/n8n_workflow)
-- LogiGreen Apps - A Supply Chain Analytics Super-App for your Operational Transformation: [Try it here!]()
+- LogiGreen Apps - A Supply Chain Analytics Super-App for your Operational Transformation: [Try it here!](https://bit.ly/try-logigreen-app)
 
 #### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
 - AI Agent to Monitor your n8n Workflow (MCP Server, Claude AI): [GitHub Repository](https://github.com/samirsaci/mcp-n8n-monitor) / [Tutorial](https://youtu.be/oJzNnHIusZs)
