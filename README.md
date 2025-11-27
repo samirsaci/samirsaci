@@ -27,6 +27,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - LogiGreen Apps - A Supply Chain Analytics Super-App for your Operational Transformation: [Try it here!](https://bit.ly/try-logigreen-app)
 
 #### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
+- How I Use AI to Convince Companies that They Can Be More Sustainable: [Tutorial](https://www.youtube.com/watch?v=zOcYbmrkyqA) / [Article](https://towardsdatascience.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/)
 - AI Agent to Monitor your n8n Workflow (MCP Server, Claude AI): [GitHub Repository](https://github.com/samirsaci/mcp-n8n-monitor) / [Tutorial](https://youtu.be/oJzNnHIusZs)
 - How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/) / [Video](https://youtu.be/oJzNnHIusZs)
 - MCP Server for Web Scraping and SEO Analysis: [GitHub Repository](https://github.com/samirsaci/mcp-webscraper) / [Tutorial](https://www.youtube.com/watch?v=6hHZtiQ3M3U)
