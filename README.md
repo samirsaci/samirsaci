@@ -6,18 +6,18 @@
 
 ### 👋 Hi there, I'm Samir.
 
-A **Supply Chain and Data Science** consultant based in Paris. I am passionate about using **Data Science**, **AI** and **Blockchain**  to optimize **Supply Chain Operations**, reduce the environmental impact of companies and maximize personal productivity. 
+I am the founder and CEO of **LogiGreen**. We design and deploy **AI**, **Blockchain**, and **Data Analytics** solutions to help companies optimise their **Operations**, reduce their **environmental footprint**, and improve **profitability**.
 
 ### Do you need support in your projects?
-If you’re looking for tailored consulting solutions to **optimize supply chains and meet sustainability goals**, contact: [LogiGreen Consulting](https://bit.ly/logi-green-linkedin)
+If you’re looking for tailored solutions for your **operational or business challenges**, contact me: [LogiGreen Consulting](https://bit.ly/logi-green-linkedin)
 
 **Let's connect on**
 - 👨‍💼 [Linkedin](https://www.linkedin.com/in/samir-saci)
 - 🐤 [Twitter](https://x.com/Samir_Saci_)
 
 **I share content on**
-- 🕸️ [My Personal Blog](https://samirsaci.com) where you can find articles regarding Data Science for Supply Chain Optimization 🚚, Sustainability 🌳 and Productivity ⌚
-- 🚚 [Youtube Channel: Supply Science](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) about Supply Chain Analytics and Sustainability
+- 🕸️ [My Personal Blog](https://samirsaci.com) where you can find articles regarding Data Science for Business Optimisation 📊, Sustainability 🌳 and Productivity ⌚
+- 🚚 [Youtube Channel: Supply Science](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) about Operational Analytics, AI Solutions, and Sustainability
 - ⏲️ [Youtube Channel: Productive Data](https://www.youtube.com/channel/UCiYf8BKpRmuPMLnoic74LyA) about data solutions to improve your productivity with automation.
 
 ### 👷💪 What am I currently working on?
@@ -25,6 +25,9 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 #### Web Applications & Workflow Automations
 - Workflow Automation using n8: [Check my Templates](https://github.com/samirsaci/n8n_workflow)
 - LogiGreen Apps - A Supply Chain Analytics Super-App for your Operational Transformation: [Try it here!](https://bit.ly/try-logigreen-app)
+
+### Blockchain Solutions for Operational Transparency and Traceability: 
+- Coming Soon 🔗
 
 #### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
 - How I Use AI to Convince Companies that They Can Be More Sustainable: [Tutorial](https://www.youtube.com/watch?v=zOcYbmrkyqA) / [Article](https://towardsdatascience.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/)
@@ -40,7 +43,7 @@ If you’re looking for tailored consulting solutions to **optimize supply chain
 - Tutorial Automate Excel for Supply Chain with VBA: [Repository](https://github.com/samirsaci/supply-science-vba) / [Tutorial](https://www.youtube.com/watch?v=yhPe_P1u2aI)
 - Create your First Supply Chain Analytics App with Streamlit: [Repository](https://github.com/samirsaci/inventory-streamlit-app) / [Tutorial](https://youtu.be/FC8nULkvHcQ)
 
-#### AI & Analytics for Sustainability 🌲
+#### AI, Analytics & Blockchain for Sustainability 🌲
 - AI Agent for Sustainable Supply-Chain Network Optimisation using MCP Server with Claude AI: [Article](https://towardsdatascience.com/mcp-server-for-an-ai-powered-supply-chain-network-optimization-agent/) / [Video](https://youtu.be/oJzNnHIusZs)
 - Sustainable Business Strategy with Data Analytics: ([Article](https://www.samirsaci.com/sustainable-business-strategy-with-data-analytics/))
 - Simulate the Challenges of a Circular Economy for Fashion Retail: ([Article](https://www.samirsaci.com/what-are-the-challenges-of-a-circular-economy-for-fashion-retail/))
