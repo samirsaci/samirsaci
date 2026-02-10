@@ -19,6 +19,7 @@ If you’re looking for tailored solutions for your **operational or business ch
 - 🕸️ [My Personal Blog](https://samirsaci.com) where you can find articles regarding Data Science for Business Optimisation 📊, Sustainability 🌳 and Productivity ⌚
 - 🚚 [Youtube Channel: Supply Science](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g) about Operational Analytics, AI Solutions, and Sustainability
 - ⏲️ [Youtube Channel: Productive Data](https://www.youtube.com/channel/UCiYf8BKpRmuPMLnoic74LyA) about data solutions to improve your productivity with automation.
+- 🤗 [Hugging Face](https://huggingface.co/supplyscience)
 
 ### 👷💪 What am I currently working on?
 
