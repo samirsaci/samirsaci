@@ -24,9 +24,9 @@ If you’re looking for tailored solutions for your **operational or business ch
 ### 👷💪 What am I currently working on?
 
 #### Web Applications & Workflow Automations
+- Test your knowledge and learn new skills in AI & Analytics for Supply Chain with the [Supply Science App](https://supply-science.com) 
 - Workflow Automation using n8: [Check my Templates](https://github.com/samirsaci/n8n_workflow)
 - LogiGreen Apps - A Supply Chain Analytics Super-App for your Operational Transformation: [Try it here!](https://bit.ly/try-logigreen-app)
-- 
 #### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
 - Can AI Solve Failures in your Supply Chain?: [Article](https://www.samirsaci.com/can-ai-find-the-root-cuse-of-supply-chain-failures/) / [Tutorial](https://youtu.be/_X80NU2K3bU)
 - How I Use AI to Convince Companies that They Can Be More Sustainable: [Tutorial](https://www.youtube.com/watch?v=zOcYbmrkyqA) / [Article](https://www.samirsaci.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/)
