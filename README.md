@@ -26,11 +26,9 @@ If you’re looking for tailored solutions for your **operational or business ch
 #### Web Applications & Workflow Automations
 - Workflow Automation using n8: [Check my Templates](https://github.com/samirsaci/n8n_workflow)
 - LogiGreen Apps - A Supply Chain Analytics Super-App for your Operational Transformation: [Try it here!](https://bit.ly/try-logigreen-app)
-
-### Blockchain Solutions for Operational Transparency and Traceability: 
-- Coming Soon 🔗
-
+- 
 #### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
+- Can AI Solve Failures in your Supply Chain?: [Article](https://www.samirsaci.com/can-ai-find-the-root-cuse-of-supply-chain-failures/) / [Tutorial](https://youtu.be/_X80NU2K3bU)
 - How I Use AI to Convince Companies that They Can Be More Sustainable: [Tutorial](https://www.youtube.com/watch?v=zOcYbmrkyqA) / [Article](https://www.samirsaci.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/)
 - AI Agent to Monitor your n8n Workflow (MCP Server, Claude AI): [GitHub Repository](https://github.com/samirsaci/mcp-n8n-monitor) / [Tutorial](https://youtu.be/oJzNnHIusZs)
 - How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://www.samirsaci.com/how-i-deployed-an-ai-agent-for-sustainable-supply-chain-optimisation/) / [Video](https://youtu.be/oJzNnHIusZs)
