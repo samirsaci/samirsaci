@@ -6,7 +6,7 @@
 
 # Samir Saci
 
-**Founder & CEO @ [LogiGreen](https://bit.ly/logi-green-linkedin)** · Supply Chain Engineer · AI Builder
+**Founder & CEO @ LogiGreen** · Supply Chain Optimisation Consultant · AI & Analytics Builder
 
 I build **AI-powered solutions** that help companies optimise their operations,
 cut their environmental footprint, and unlock profitability.
