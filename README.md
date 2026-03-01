@@ -34,7 +34,8 @@ I design and deploy **AI, Blockchain, and Data Analytics** solutions at the inte
 | Product | Description |
 |:--|:--|
 | [Supply Science App](https://supply-science.com) | Test your skills in AI & Analytics for Supply Chain |
-| [LogiGreen Apps](https://bit.ly/try-logigreen-app) | Supply Chain Analytics super-app for operational transformation |
+| [Supply Chain Optimization Apps](https://bit.ly/try-logigreen-app) | Supply Chain Analytics super-app for operational transformation |
+| [LogiGreen Supply Chain Optimization Apps](https://bit.ly/try-logigreen-app) | Supply Chain Analytics super-app for operational transformation |
 | [Notion Templates](https://www.notion.com/@samirsaci) | Learn supply chain & business optimisation with articles, videos, and quizzes |
 
 ---
