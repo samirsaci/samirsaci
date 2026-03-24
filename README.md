@@ -36,7 +36,7 @@ I design and deploy **AI, Blockchain, and Data Analytics** solutions at the inte
 | [Supply Science App](https://supply-science.com) | Test your skills in AI & Analytics for Supply Chain |
 | [Supply Chain Optimization Apps](https://www.logi-green.com/logigreen-applications-for-supply-chain-optimization) | Supply Chain Analytics super-app for operational transformation |
 | [AI Apps for Logistics Operations](https://applications.logi-green.com/) | AI-powered lightweight apps to support logistics and manufacturing operations |
-| [Notion Templates](https://www.notion.com/@samirsaci) | Learn supply chain & business optimisation with articles, videos, and quizzes |
+| [Notion Templates](https://www.notion.com/@samirsaci) | Notion templates with guided learning path for supply chain & business optimisation with articles, videos, and quizzes |
 | [Network In Paris](https://networkinparis.com/) | a platform to discover interesting events (AI, Tech, Business, Culture, Climate and Crypto) in Paris |
 
 ---
