@@ -73,6 +73,7 @@ I design and deploy **AI, Blockchain, and Data Analytics** solutions at the inte
 ### I've shared my insights about
 
 #### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
+- How ElevenLabs Voice AI Is Replacing Screens in Warehouse and Manufacturing Operations: [Article](https://www.samirsaci.com/from-screens-to-voice-how-elevenlabs-can-change-the-way-we-run-operations/)
 - Can AI Solve Failures in your Supply Chain?: [Article](https://www.samirsaci.com/can-ai-find-the-root-cuse-of-supply-chain-failures/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Tutorial](https://youtu.be/_X80NU2K3bU)
 - How I Use AI to Convince Companies that They Can Be More Sustainable: [Tutorial](https://www.youtube.com/watch?v=zOcYbmrkyqA) / [Article](https://www.samirsaci.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 - AI Agent to Monitor your n8n Workflow (MCP Server, Claude AI): [Repository](https://github.com/samirsaci/mcp-n8n-monitor) / [Tutorial](https://youtu.be/oJzNnHIusZs)
