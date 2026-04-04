@@ -37,6 +37,7 @@ I design and deploy **AI, Blockchain, and Data Analytics** solutions at the inte
 | [Supply Chain Optimization Apps](https://www.logi-green.com/logigreen-applications-for-supply-chain-optimization) | Supply Chain Analytics super-app for operational transformation |
 | [AI Apps for Logistics Operations](https://applications.logi-green.com/) | AI-powered lightweight apps to support logistics and manufacturing operations |
 | [Notion Templates](https://www.notion.com/@samirsaci) | Notion templates with guided learning path for supply chain & business optimisation with articles, videos, and quizzes |
+| [OpenClaw Skills](https://clawhub.ai/u/samirsaci) | equip your personal assistant with skills to interract with n8n automations and extract data from multiple services |
 | [Network In Paris](https://networkinparis.com/) | a platform to discover interesting events (AI, Tech, Business, Culture, Climate and Crypto) in Paris |
 
 ---
@@ -73,7 +74,6 @@ I design and deploy **AI, Blockchain, and Data Analytics** solutions at the inte
 ### I've shared my insights about
 
 #### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
-- Discover my OpenClaw Skills: [Skills](https://clawhub.ai/u/samirsaci)
 - How ElevenLabs Voice AI Is Replacing Screens in Warehouse and Manufacturing Operations: [Article](https://www.samirsaci.com/from-screens-to-voice-how-elevenlabs-can-change-the-way-we-run-operations/)
 - Can AI Solve Failures in your Supply Chain?: [Article](https://www.samirsaci.com/can-ai-find-the-root-cuse-of-supply-chain-failures/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Tutorial](https://youtu.be/_X80NU2K3bU)
 - How I Use AI to Convince Companies that They Can Be More Sustainable: [Tutorial](https://www.youtube.com/watch?v=zOcYbmrkyqA) / [Article](https://www.samirsaci.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/?utm_source=github&utm_medium=profile&utm_campaign=readme)
