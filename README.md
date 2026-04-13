@@ -82,6 +82,15 @@ I design and deploy **AI, Blockchain, and Data Analytics** solutions at the inte
 - MCP Server for Web Scraping and SEO Analysis: [Repository](https://github.com/samirsaci/mcp-webscraper) / [Tutorial](https://www.youtube.com/watch?v=6hHZtiQ3M3U)
 - How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://www.samirsaci.com/how-i-deployed-an-ai-agent-for-sustainable-supply-chain-optimisation/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Video Tutorial](https://www.youtube.com/watch?v=JjUEgkK_yD8)
 - How to Build an AI Budget-Planning Optimiser for Your 2026 CAPEX Review (LangGraph, FastAPI, and n8n): [Article](https://www.samirsaci.com/build-an-ai-agent-for-strategic-budget-planning-with-langgraph-and-n8n/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+- Leveraging LLMs with LangChain for Supply Chain Analytics — A Control Tower Powered by GPT: [Article](https://www.samirsaci.com/leveraging-llms-with-langchain-for-supply-chain-analytics-a-control-tower-powered-by-gpt/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+- Create GPTs to Automate Supply Chain Analytics: [Article](https://www.samirsaci.com/create-gpts-to-automate-supply-chain-analytics/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Tutorial](https://youtu.be/UdJSdRECgkI)
+
+#### 📊 Business Planning 
+- How Spreadsheets Quietly Cost Supply Chains Millions: [Article](https://www.samirsaci.com/how-spreadsheets-quietly-cost-supply-chains-millions/)
+- Are you Aware of the Potential of Your Data Expertise in Driving Business Profitability?: [Article](https://www.samirsaci.com/are-you-aware-of-the-potential-of-your-data-expertise-in-driving-business-profitability/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+- Business Planning with Python — Revenue Optimisation: [Article](https://www.samirsaci.com/business-planning-with-python-revenue-optimization/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+- Business Planning with Python — Inventory and Cash Flow Management: [Article](https://www.samirsaci.com/business-planning-with-python-inventory-and-cash-flow-management-2/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Tutorial](https://youtu.be/XAS5hLDHfQM)
+- Maximize your Business Profitability with Python: [Article](https://www.samirsaci.com/maximize-your-business-profitability-with-python/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Repository](https://github.com/samirsaci/business-profitability) / [Tutorial](https://youtu.be/gHVaf8ldiIs)
 
 #### Complete Supply Chain Analytics Tutorials
 - Tutorial Supply Chain Analytics with Python — ABC Analysis: [Repository](https://github.com/samirsaci/tutorial-abc-analysis) / [Tutorial](https://youtu.be/Qglr9Yqa44I)
@@ -116,14 +125,6 @@ I design and deploy **AI, Blockchain, and Data Analytics** solutions at the inte
 - Generate Anki Flash Cards for Language Learning with Google Translate and GPT-4o: [Tutorial + Template](https://www.youtube.com/watch?v=2mRZJATUTDw)
 - AI-Powered Language Teacher with Telegram, Google Sheet and GPT-4o: [Tutorial + Template](https://www.youtube.com/watch?v=MQV8wDSug7M)
 - Automate Delivery Confirmation with Telegram Bot, Google Drive and Gmail: [Tutorial + Template](https://www.youtube.com/watch?v=9NS4RYaOwJ8)
-
-#### 📊 Business Analytics & GenAI
-- Are you Aware of the Potential of Your Data Expertise in Driving Business Profitability?: [Article](https://www.samirsaci.com/are-you-aware-of-the-potential-of-your-data-expertise-in-driving-business-profitability/?utm_source=github&utm_medium=profile&utm_campaign=readme)
-- Business Planning with Python — Revenue Optimisation: [Article](https://www.samirsaci.com/business-planning-with-python-revenue-optimization/?utm_source=github&utm_medium=profile&utm_campaign=readme)
-- Business Planning with Python — Inventory and Cash Flow Management: [Article](https://www.samirsaci.com/business-planning-with-python-inventory-and-cash-flow-management-2/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Tutorial](https://youtu.be/XAS5hLDHfQM)
-- Maximize your Business Profitability with Python: [Article](https://www.samirsaci.com/maximize-your-business-profitability-with-python/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Repository](https://github.com/samirsaci/business-profitability) / [Tutorial](https://youtu.be/gHVaf8ldiIs)
-- Leveraging LLMs with LangChain for Supply Chain Analytics — A Control Tower Powered by GPT: [Article](https://www.samirsaci.com/leveraging-llms-with-langchain-for-supply-chain-analytics-a-control-tower-powered-by-gpt/?utm_source=github&utm_medium=profile&utm_campaign=readme)
-- Create GPTs to Automate Supply Chain Analytics: [Article](https://www.samirsaci.com/create-gpts-to-automate-supply-chain-analytics/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Tutorial](https://youtu.be/UdJSdRECgkI)
 
 #### 🏭 Supply Chain Optimisation
 - What is Process Mining?: [Article](https://www.samirsaci.com/what-is-process-mining/?utm_source=github&utm_medium=profile&utm_campaign=readme)
