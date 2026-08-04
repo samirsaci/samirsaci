@@ -74,6 +74,7 @@ I design and deploy **AI, Blockchain, and Data Analytics** solutions at the inte
 ### I've shared my insights about
 
 #### Agentic Workflow x Analytics Products with FastAPI x (LangGraph, LangChain and MCP Servers)
+- AI Was The Easy Part: What is a Forward Deployed Engineer for Supply Chain?: [Video](https://www.youtube.com/watch?v=voTJWcVs21Q)
 - How ElevenLabs Voice AI Is Replacing Screens in Warehouse and Manufacturing Operations: [Article](https://www.samirsaci.com/from-screens-to-voice-how-elevenlabs-can-change-the-way-we-run-operations/)
 - Can AI Solve Failures in your Supply Chain?: [Article](https://www.samirsaci.com/can-ai-find-the-root-cuse-of-supply-chain-failures/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Tutorial](https://youtu.be/_X80NU2K3bU)
 - How I Use AI to Convince Companies that They Can Be More Sustainable: [Tutorial](https://www.youtube.com/watch?v=zOcYbmrkyqA) / [Article](https://www.samirsaci.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/?utm_source=github&utm_medium=profile&utm_campaign=readme)
