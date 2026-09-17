@@ -6,18 +6,26 @@
 
 # Samir Saci
 
-**Founder & CEO @ LogiGreen** · Supply Chain Optimisation Consultant · AI & Analytics Builder
+**Supply chain engineer and data scientist** · Founder of LogiGreen · Supply Science on YouTube
 
 I build **AI-powered solutions** that help companies optimise their operations,
 cut their environmental footprint, and unlock profitability.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/samir-saci)
 [![Twitter](https://img.shields.io/badge/X-Follow-000000?style=flat&logo=x)](https://x.com/Samir_Saci_)
-[![Blog](https://img.shields.io/badge/Blog-samirsaci.com-FF5722?style=flat&logo=ghost)](https://samirsaci.com)
+[![Blog](https://img.shields.io/badge/Blog-samirsaci.com-FF5722?style=flat&logo=ghost)](https://www.samirsaci.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 [![YouTube](https://img.shields.io/badge/YouTube-Supply_Science-FF0000?style=flat&logo=youtube)](https://www.youtube.com/channel/UClUA0PA7bXRe-1nbV5w-M7g)
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging_Face-FFD21E?style=flat)](https://huggingface.co/supplyscience)
 
 </div>
+
+---
+
+### Start here
+
+- **Test your level in five questions:** the [Supply Science App](https://supply-science.com/?utm_source=github&utm_medium=profile&utm_campaign=readme), free, in the browser
+- **100+ case studies with their source code:** [samirsaci.com](https://www.samirsaci.com/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+- **The lessons on video:** [Supply Science on YouTube](https://www.youtube.com/@SupplyScience)
 
 ---
 
@@ -79,7 +87,6 @@ I design and deploy **AI, Blockchain, and Data Analytics** solutions at the inte
 - Can AI Solve Failures in your Supply Chain?: [Article](https://www.samirsaci.com/can-ai-find-the-root-cuse-of-supply-chain-failures/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Tutorial](https://youtu.be/_X80NU2K3bU)
 - How I Use AI to Convince Companies that They Can Be More Sustainable: [Tutorial](https://www.youtube.com/watch?v=zOcYbmrkyqA) / [Article](https://www.samirsaci.com/how-i-use-ai-to-convince-companies-to-adopt-sustainability/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 - AI Agent to Monitor your n8n Workflow (MCP Server, Claude AI): [Repository](https://github.com/samirsaci/mcp-n8n-monitor) / [Tutorial](https://youtu.be/oJzNnHIusZs)
-- How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://www.samirsaci.com/how-i-deployed-an-ai-agent-for-sustainable-supply-chain-optimisation/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Tutorial](https://youtu.be/oJzNnHIusZs)
 - MCP Server for Web Scraping and SEO Analysis: [Repository](https://github.com/samirsaci/mcp-webscraper) / [Tutorial](https://www.youtube.com/watch?v=6hHZtiQ3M3U)
 - How to Connect an MCP Server for an AI-Powered, Supply-Chain Network Optimisation Agent: [Article](https://www.samirsaci.com/how-i-deployed-an-ai-agent-for-sustainable-supply-chain-optimisation/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Video Tutorial](https://www.youtube.com/watch?v=JjUEgkK_yD8)
 - How to Build an AI Budget-Planning Optimiser for Your 2026 CAPEX Review (LangGraph, FastAPI, and n8n): [Article](https://www.samirsaci.com/build-an-ai-agent-for-strategic-budget-planning-with-langgraph-and-n8n/?utm_source=github&utm_medium=profile&utm_campaign=readme)
@@ -106,7 +113,7 @@ I design and deploy **AI, Blockchain, and Data Analytics** solutions at the inte
 - What are the Sustainable Development Goals? (SDGs): [Article](https://www.samirsaci.com/sustainable-development-goals/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 - What is ESG Reporting?: [Article](https://www.samirsaci.com/what-is-esg-reporting/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 - What Greenwashing Is, and How We Can Use Analytics to Detect It: [Article]()
-- Create a Sustainable Supply Chain Optimization Web App: [Article](https://medium.com/p/20599b98cab6) / [Tutorial](https://youtu.be/WG3JnZBQ2Qc)
+- Create a Sustainable Supply Chain Optimization Web App: [Article](https://www.samirsaci.com/sustainable-business-strategy-with-data-analytics/) / [Tutorial](https://youtu.be/WG3JnZBQ2Qc)
 - Leveraging Data Analytics for Sustainable Business Transformation: [Article](https://www.samirsaci.com/leveraging-data-analytics-for-sustainable-business-transformation/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 - How Sustainable is Your Circular Economy?: [Article](https://www.samirsaci.com/how-sustainable-is-your-circular-economy/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 - Green Inventory Management — Case Study: [Article](https://www.samirsaci.com/green-inventory-management-case-study/?utm_source=github&utm_medium=profile&utm_campaign=readme)
@@ -187,16 +194,15 @@ I design and deploy **AI, Blockchain, and Data Analytics** solutions at the inte
 - Automate Budget Planning using Linear Programming: [Article](https://www.samirsaci.com/automate-budget-planning-using-linear-programming/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Repository](https://github.com/samirsaci/budget-planning) / [Tutorial](https://youtu.be/U_9KGjzGlkA)
 
 #### 🤖 Supply Chain Transactional Processes Automation (RPA)
-- What Is RPA? Robotic Process Automation: [Article](https://medium.com/@s-saci95/what-is-rpa-robotic-process-automation-ae7dc62fe9cd)
-- Orders Creation Automation with SAP for Retail Using VB: [Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-3-po-creation-36ae2d1baedb) / [Repository](https://github.com/samirsaci/sap-automation-po) / [Tutorial](https://youtu.be/EY9yt0BTr2M)
-- Product Listing Automation with SAP for Retail Using VB: [Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-2-listing-740c6cb690c1) / [Repository](https://github.com/samirsaci/sap-automation) / [Tutorial](https://youtu.be/yodNWnf7PQ0)
-- SAP Automation for Retail Using VB: [Article](https://medium.datadriveninvestor.com/sap-automation-for-retail-using-vb-and-python-part-1-intro-to-sap-gui-scripting-2b065e122c6f)
+- What Is RPA? Robotic Process Automation: [Article](https://www.samirsaci.com/what-is-rpa-robotic-process-automation/)
+- Orders Creation Automation with SAP for Retail Using VB: [Article](https://www.samirsaci.com/sap-automation-of-orders-creation-for-retail/) / [Repository](https://github.com/samirsaci/sap-automation-po) / [Tutorial](https://youtu.be/EY9yt0BTr2M)
+- Product Listing Automation with SAP for Retail Using VB: [Article](https://www.samirsaci.com/sap-automation-of-product-listing-for-retail/) / [Repository](https://github.com/samirsaci/sap-automation) / [Tutorial](https://youtu.be/yodNWnf7PQ0)
+- SAP Automation for Retail Using VB: [Article](https://www.samirsaci.com/sap-automation-for-retail/)
 - Use Python to Design Automation Tools for Excel Users: [Article](https://www.samirsaci.com/build-excel-automation-tools-with-python/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 - Automate Accounting Tasks using Python: [Article](https://www.samirsaci.com/automate-accounting-tasks-using-python/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
 #### 📉 Interactive Visualisation
 - Deploy Logistics Operational Dashboards using DataPane: [Article](https://www.samirsaci.com/deploy-logistics-operational-dashboards-using-datapane/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Repository](https://github.com/samirsaci/ops-dashboard)
-- Vaccination Centers Availability in Paris using Google Maps Viz Tool: [Demo](https://vaccin.onrender.com/)
 - Build Interactive Charts using Flask and D3.js: [Article](https://www.samirsaci.com/build-interactive-charts-using-flask-and-d3-js/?utm_source=github&utm_medium=profile&utm_campaign=readme) / [Repository](https://github.com/samirsaci/matrix-ecommerce)
 - Build an Interactive Matrix Chart of Les Miserables Characters using Flask and D3.js: [Repository](https://github.com/samirsaci/matrix-miserables)
 - Violin Plot using Flask + D3.js: [Demo](https://samirsaci.github.io/violin-plot.html) / [Repository](https://github.com/samirsaci/violin-plot)
