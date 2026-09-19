@@ -31,7 +31,7 @@ cut their environmental footprint, and unlock profitability.
 
 ### What I do
 
-I design and deploy **AI, Blockchain, and Data Analytics** solutions at the intersection of **supply chain operations** and **sustainability**. My work spans from hands-on Python tutorials to production-grade agentic workflows.
+I design and deploy **AI, Data & Analytics** solutions at the intersection of **supply chain operations** and **sustainability**. My work spans from hands-on Python tutorials to production-grade agentic workflows.
 
 **100+ Python tutorials** · ![GitHub stars](https://img.shields.io/github/stars/samirsaci?style=flat&label=GitHub%20Stars) · ![GitHub followers](https://img.shields.io/github/followers/samirsaci?style=flat&label=Followers)
 
